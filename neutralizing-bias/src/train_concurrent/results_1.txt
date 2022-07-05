@@ -1,0 +1,896 @@
+################################################################################
+IN SEQ: 	 b'they see the calling of such councils , for example , by a roman emperor lacking the divine authority as prep ##ost ##ero ##us and assert that the emperors used the councils to exercise their influence to shape and institute christianity to their liking .'
+GOLD SEQ: 	 b'they see the calling of such councils , for example , by a roman emperor lacking the divine authority as ground ##less and assert that the emperors used the councils to exercise their influence to shape and institute christianity to their liking .'
+PRED SEQ:	 b'they the the , the the , the the the , the the the the the the the the the the the the the the the to to to to to to to to to councils a , the the , the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['ground', '##less']]
+PRED TOK: 	 [[','], [',', 'the', 'the', 'the', ',', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the'], ['to', 'to', 'to', 'to', 'to', 'to', 'councils', 'a', ',', 'the', 'the', ',', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'car ##wood lip ##ton has appeared on two separate television shows , providing his own commentary in the popular hbo miniseries band of brothers and the inspirational true story of easy company , we stand alone together : the men of easy company .'
+GOLD SEQ: 	 b'car ##wood lip ##ton has appeared on two separate television shows , providing his own commentary in the hbo miniseries band of brothers and the inspirational true story of easy company , we stand alone together : the men of easy company .'
+PRED SEQ:	 b'car appeared of of of of separate two separate separate two : lip of the the the the the the the of of the the the , the the easy the easy of of of of , the the the the the easy the the easy the the of of of of of of of'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['of', 'of', 'of', 'of', 'separate'], ['separate', 'two'], ['lip'], ['the', 'the', 'the', 'the', 'the', 'the', 'the', 'of', 'of', 'the', 'the', 'the', ',', 'the', 'the'], ['the', 'easy', 'of', 'of', 'of', 'of', ',', 'the', 'the', 'the', 'the', 'the', 'easy', 'the', 'the', 'easy', 'the', 'the', 'of', 'of', 'of', 'of', 'of', 'of', 'of']]
+################################################################################
+IN SEQ: 	 b'mark o ##ate ##n ( born 8 march 1964 , watford ) is a disgrace ##d liberal democrat politician in the united kingdom , and member of parliament for the winchester constituency .'
+GOLD SEQ: 	 b'mark o ##ate ##n ( born 8 march 1964 , watford ) is a liberal democrat politician in the united kingdom , and member of parliament for the winchester constituency .'
+PRED SEQ:	 b'mark winchester . , the the the ) in the the the the the the the the the the the the the the the the the the the the the the the , the the , the , the , the , the , the , the , the , the , the , the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['winchester', '.'], ['the', 'the', 'the'], ['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', ',', 'the', 'the', ',', 'the', ',', 'the', ',', 'the', ',', 'the', ',', 'the', ',', 'the', ',', 'the', ',', 'the', ',', 'the', ',', 'the']]
+################################################################################
+IN SEQ: 	 b'jesus of nazareth is probably mentioned in two passages of the work the antiquities of the jews by the jewish historian joseph ##us , written in the late first century ad .'
+GOLD SEQ: 	 b'jesus of nazareth is possibly mentioned in two passages of the work the antiquities of the jews by the jewish historian joseph ##us , written in the late first century ad .'
+PRED SEQ:	 b'of of of of the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['possibly']]
+PRED TOK: 	 [['of', 'of'], ['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'file : donna york . jp ##g | a barge haul ##s coal in the louisville and portland canal , the only man - made portion of the ohio river .'
+GOLD SEQ: 	 b'file : donna york . jp ##g | a barge haul ##s coal in the louisville and portland canal , the only artificial portion of the ohio river .'
+PRED SEQ:	 b'a . . the the jp the jp the the the the . the the the the . the the the the the the the the . the the the the . the the the the the the the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['artificial']]
+PRED TOK: 	 [['.', 'the', 'the', 'jp', 'the', 'jp', 'the', 'the', 'the', 'the', '.', 'the', 'the', 'the', 'the', '.', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', '.', 'the', 'the', 'the', 'the', '.', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'the 51 day stand ##off and ensuing murder of 76 men , women , and children - - the branch david ##ians - - in wa ##co , texas .'
+GOLD SEQ: 	 b'the 51 day stand ##off and ensuing deaths of 76 men , women , and children - - the branch david ##ians - - in wa ##co , texas .'
+PRED SEQ:	 b'the . , , , , , , , , , , , , , , , , , , , , , , , - - - - - - - - branch - - - - - - - - - - - - - - - - - - - - -'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['deaths']]
+PRED TOK: 	 [['.'], [',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ','], ['-', '-', '-', '-', 'branch', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']]
+################################################################################
+IN SEQ: 	 b'in april 2009 a brazilian human rights group , torture never again , awarded the five its chico mendes medal , because their rights had been violated .'
+GOLD SEQ: 	 b'in april 2009 a brazilian human rights group , torture never again , awarded the five its chico mendes medal , under the pre ##text that their rights had been violated .'
+PRED SEQ:	 b'in , the rights , , , , , , , rights , , , , , , rights , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['under', 'the', 'pre', '##text', 'that']]
+PRED TOK: 	 [[',', ',', ',', ',', ',', ',', ',', 'rights', ',', ',', ',', ',', ',', ',', 'rights', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'as of january 27 , 2006 , broke ##back mountain had grossed over $ 46 million in north america and more than $ 10 million overseas .'
+GOLD SEQ: 	 b'as of january 27 , 2006 , broke ##back mountain had grossed over $ 46 million in north america and more than $ 10 million elsewhere .'
+PRED SEQ:	 b'as , , , , 10 mountain $ 46 north million january million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million million $ $'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['elsewhere']]
+PRED TOK: 	 [[',', ',', '10'], ['january', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', 'million', '$', '$']]
+################################################################################
+IN SEQ: 	 b'el ##aga ##bu ##lus engaged in frequent homosexual per ##version ##s , such as pro ##stituting himself in drag and marrying an enslaved chariot driver .'
+GOLD SEQ: 	 b'el ##aga ##bu ##lus engaged in frequent homosexual activities , such as pro ##stituting himself in drag and marrying an enslaved chariot driver .'
+PRED SEQ:	 b'el el ##lus frequent in per homosexual in in per ##s in per per ##s in in in in pro ##s in in in in pro driver in in in in in in in in in in in in in in el in in in in in in in in in in in in in'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['activities']]
+PRED TOK: 	 [['el'], ['per', 'homosexual', 'in', 'in', 'per', '##s', 'in', 'per', 'per', '##s', 'in', 'in', 'in', 'in', 'pro', '##s', 'in', 'in', 'in', 'in', 'pro'], ['in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'el', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in']]
+################################################################################
+IN SEQ: 	 b'in the earliest models ( earlier than a macintosh ii ) , all it did was crash silently , without playing any fancy music .'
+GOLD SEQ: 	 b'in the earliest models ( earlier than a macintosh ii ) , all it did was crash silently , without playing any music .'
+PRED SEQ:	 b'in playing , earliest , , , , , , , , , , , , , was macintosh was any without models it earlier ) , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['playing', ','], [',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', 'was'], ['was', 'any', 'without', 'models', 'it', 'earlier'], [',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'stone soup is an old folk story in which hungry strangers trick the local people of a town into sharing their food .'
+GOLD SEQ: 	 b'stone soup is an old folk story in which hungry strangers com ##pel ##l the local people of a town into sharing their food .'
+PRED SEQ:	 b'stone local a soup people soup people soup people soup people soup people sharing food their strangers story old which folk which an which local a local a strangers people people is their an story which a old into an story strangers . the in hungry of is in hungry old into an story strangers'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['com', '##pel', '##l']]
+PRED TOK: 	 [['soup', 'people', 'soup', 'people', 'soup', 'people', 'soup', 'people', 'soup', 'people'], ['their', 'strangers', 'story', 'old', 'which', 'folk', 'which', 'an', 'which', 'local', 'a', 'local', 'a', 'strangers', 'people', 'people', 'is', 'their', 'an', 'story', 'which', 'a', 'old', 'into', 'an', 'story', 'strangers'], ['the', 'in', 'hungry', 'of', 'is', 'in', 'hungry', 'old', 'into', 'an', 'story', 'strangers']]
+################################################################################
+IN SEQ: 	 b'along came a band of missionaries , but they were all horribly massacre ##d .'
+GOLD SEQ: 	 b'along came a band of missionaries , but they were all massacre ##d .'
+PRED SEQ:	 b'along , , they they they they band but massacre all all all all all all all all all all all horribly ##d a band but ##d but . , ##d but . missionaries missionaries missionaries . of missionaries . , , massacre ##d but ##d all came , massacre came horribly came . ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [[','], ['they', 'they', 'they', 'band', 'but', 'massacre', 'all', 'all', 'all', 'all', 'all', 'all', 'all', 'all', 'all', 'all'], ['##d', 'a', 'band', 'but', '##d', 'but', '.', ',', '##d', 'but', '.', 'missionaries', 'missionaries', 'missionaries', '.', 'of', 'missionaries', '.', ',', ','], ['but', '##d', 'all', 'came', ',', 'massacre', 'came', 'horribly', 'came'], [',']]
+################################################################################
+IN SEQ: 	 b'another infamous period of colon ##isation in ancient times was from the romans .'
+GOLD SEQ: 	 b'another period of colon ##isation in ancient times was from the romans .'
+PRED SEQ:	 b'another in infamous in infamous ##isation in infamous ##isation in infamous from from romans times colon ##isation in infamous times of romans ancient ancient ancient ##isation romans colon ##isation colon from . the infamous from romans ancient was another in of period the ancient was another in infamous . another in the ancient was the'
+GOLD DIST: 	 [0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['in'], ['in', 'infamous', '##isation', 'in', 'infamous', '##isation', 'in', 'infamous', 'from', 'from', 'romans', 'times'], ['infamous'], ['of'], ['ancient', 'ancient', 'ancient', '##isation', 'romans', 'colon', '##isation', 'colon', 'from'], ['the', 'infamous', 'from', 'romans', 'ancient', 'was', 'another', 'in', 'of', 'period', 'the', 'ancient', 'was', 'another', 'in', 'infamous', '.', 'another', 'in', 'the', 'ancient', 'was', 'the']]
+################################################################################
+IN SEQ: 	 b'photo sequence of astonishing 2005 chicago ##land crash with ryan br ##is ##coe .'
+GOLD SEQ: 	 b'photo sequence of 2005 chicago ##land crash with ryan br ##is ##coe .'
+PRED SEQ:	 b'photo . ##land chicago sequence of ##land br 2005 astonishing ##land ##land br 2005 astonishing ##coe br 2005 br ryan astonishing ##coe . br 2005 crash chicago astonishing crash crash chicago sequence of with with with with with 2005 crash crash chicago sequence of of photo . ##coe ##coe ##coe ##coe . br 2005 br'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['.', '##land', 'chicago'], ['2005', 'astonishing', '##land', '##land', 'br', '2005', 'astonishing', '##coe', 'br', '2005', 'br', 'ryan', 'astonishing'], ['br', '2005', 'crash', 'chicago', 'astonishing', 'crash', 'crash', 'chicago', 'sequence', 'of', 'with', 'with', 'with', 'with', 'with', '2005', 'crash', 'crash', 'chicago', 'sequence', 'of', 'of', 'photo', '.', '##coe', '##coe', '##coe', '##coe', '.', 'br', '2005', 'br']]
+################################################################################
+IN SEQ: 	 b'his 45 - year career exceeded that of any other studio head .'
+GOLD SEQ: 	 b'his 45 - year career was longer than that of any other studio head .'
+PRED SEQ:	 b'his career exceeded exceeded exceeded exceeded exceeded exceeded exceeded exceeded exceeded exceeded exceeded exceeded exceeded exceeded exceeded exceeded that 45 other other other other studio any of 45 . studio of studio of career that 45 other that 45 other other head exceeded exceeded exceeded exceeded exceeded exceeded exceeded exceeded year career of of of'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['was', 'longer', 'than']]
+PRED TOK: 	 [['exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded'], ['45', 'other', 'other', 'other'], ['any', 'of', '45'], ['studio', 'of', 'studio', 'of', 'career', 'that', '45', 'other', 'that', '45', 'other', 'other', 'head', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'exceeded', 'year', 'career', 'of', 'of', 'of']]
+################################################################################
+IN SEQ: 	 b'israeli attempts to reduce gaza ##n civilian casualties'
+GOLD SEQ: 	 b'israeli efforts to reduce gaza ##n civilian casualties'
+PRED SEQ:	 b'israeli israeli israeli to israeli reduce israeli to reduce ##n to ##n civilian ##n civilian to reduce ##n ##n ##n ##n gaza attempts reduce reduce reduce reduce to attempts casualties to attempts casualties to civilian israeli casualties to israeli israeli israeli israeli israeli israeli israeli casualties to israeli gaza attempts civilian to civilian israeli gaza'
+GOLD DIST: 	 [0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['efforts']]
+PRED TOK: 	 [['israeli', 'israeli', 'to', 'israeli', 'reduce', 'israeli'], ['##n', 'to'], ['##n', 'civilian', 'to', 'reduce', '##n', '##n', '##n', '##n', 'gaza', 'attempts', 'reduce', 'reduce', 'reduce', 'reduce', 'to', 'attempts'], ['to', 'attempts', 'casualties', 'to', 'civilian', 'israeli', 'casualties', 'to', 'israeli', 'israeli', 'israeli', 'israeli', 'israeli', 'israeli', 'israeli', 'casualties', 'to', 'israeli', 'gaza', 'attempts', 'civilian', 'to', 'civilian', 'israeli', 'gaza']]
+################################################################################
+IN SEQ: 	 b"on halloween 1973 in dublin an ira militant hi ##jack ##ed a helicopter and forced the pilot to land in the exercise yard of mount ##joy jail ' s d wing at 3 . 40 ##pm , october 31 1973 . three members of the ira were able to escape , j ##b o ' ha ##gan , seamus two ##me ##y and kevin mall ##on ."
+GOLD SEQ: 	 b"on halloween 1973 in dublin an ira member hi ##jack ##ed a helicopter and forced the pilot to land in the exercise yard of mount ##joy jail ' s d wing at 3 . 40 ##pm , october 31 1973 . three members of the ira were able to escape , j ##b o ' ha ##gan , seamus two ##me ##y and kevin mall ##on ."
+PRED SEQ:	 b"1973 1973 ' ' ' ' ' ' ' ' ' ' ' ' ' ' the the the the the the the the the the the the the the the the . the the the and and and ira wing of ira ira ira ira of the the the the , the the the , the the the the the the the the . the . the , , the , the the , , ,"
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['member']]
+PRED TOK: 	 [["'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the'], ['the', 'the', 'the', 'and', 'and', 'and', 'ira', 'wing', 'of', 'ira', 'ira', 'ira', 'ira'], ['the', 'the', 'the'], ['the', 'the', 'the'], ['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the'], ['the', '.', 'the', ',', ',', 'the', ',', 'the', 'the', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b"in the process of preparing for the concert , kane bought his guitar back from a pawn shop with money borrowed from fellow mormon ##s , reconciled with johan ##sen , and put together a stage outfit be ##fi ##tting joseph smith , jr . white ##ley ' s footage resulted in the 2005 sundance featured documentary entitled new york doll ."
+GOLD SEQ: 	 b"in the process of preparing for the concert , kane bought his guitar back from a pawn shop with money borrowed from fellow mormon ##s , reconciled with johan ##sen , and put together a stage outfit in homage to joseph smith , jr . white ##ley ' s footage resulted in the 2005 sundance featured documentary entitled new york doll ."
+PRED SEQ:	 b"in ' , ' , , , , , a shop shop shop from ' , , , , joseph , , , fellow , , , , , , the be ##tting , , , , , , , , , , , , , , , , , , , , , , , , the the the the the the the the the , the the the the the the the the the the"
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['in', 'homage', 'to']]
+PRED TOK: 	 [[',', "'", ',', ',', ',', ',', ',', 'a', 'shop', 'shop', 'shop', 'from', "'", ',', ',', ',', ',', 'joseph', ',', ',', ',', 'fellow', ',', ',', ',', ',', ',', ','], ['be', '##tting', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', ',', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'but , there was heavy grief of the family , two girls , hill ##ev ##i and da ##gny , died tragic ##ally in a drowning accident in the summer of 1919 . of course the family was affected much by this .'
+GOLD SEQ: 	 b'but , there was heavy grief of the family , two girls , hill ##ev ##i and da ##gny , died in a drowning accident in the summer of 1919 . of course the family was affected much by this .'
+PRED SEQ:	 b'but , the the , , , , , , , , , the , , the , the in the , the family the , the , the , the , the , , , , , the , , , the , the , , the , , , , the , the , , the , the , , , , , , , , , , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['the'], [',', ',', ',', ',', ',', ',', 'the', ',', ',', 'the', ',', 'the'], [','], ['the', ',', 'the', ',', 'the', ',', 'the', ',', 'the', ',', ',', ',', ',', ',', 'the', ',', ',', ',', 'the', ',', 'the', ',', ',', 'the', ',', ',', ',', ',', 'the', ',', 'the', ',', ',', 'the', ',', 'the', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'on january 9 , 2006 he debuted in the role of father flynn in the tony award and pulitzer prize winning broadway production of doubt opposite the esteem ##ed british actress dame eileen atkins .'
+GOLD SEQ: 	 b'on january 9 , 2006 he debuted in the role of father flynn in the tony award and pulitzer prize winning broadway production of doubt opposite the british actress dame eileen atkins .'
+PRED SEQ:	 b'on the the the the of of of of of of of the the the the the the in the the the the the the the the the the the the the in the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['the', 'the', 'the', 'the', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'the', 'the', 'the', 'the', 'the', 'the'], ['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the'], ['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'it claims to organize several thousands of scientific conferences a year , using names that are similar to or even the same as real conferences organized by established scientific groups .'
+GOLD SEQ: 	 b'it claims to organize several thousands of scientific conferences a year , using names that are similar to or the same as real conferences organized by established scientific groups .'
+PRED SEQ:	 b'it conferences year scientific are conferences year scientific thousands conferences even conferences the conferences to conferences to conferences to conferences to conferences to conferences the scientific same scientific are scientific conferences the scientific are conferences the scientific that a scientific that scientific that scientific are conferences conferences to conferences to conferences to to . scientific conferences the . scientific , conferences conferences the to scientific or or a scientific thousands it scientific , scientific to . scientific'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['conferences', 'year', 'scientific', 'are', 'conferences', 'year', 'scientific'], ['conferences', 'even', 'conferences', 'the', 'conferences', 'to', 'conferences', 'to', 'conferences', 'to', 'conferences', 'to', 'conferences', 'to', 'conferences', 'the', 'scientific', 'same', 'scientific', 'are'], ['are', 'conferences', 'the', 'scientific', 'that', 'a', 'scientific', 'that', 'scientific', 'that', 'scientific', 'are', 'conferences', 'conferences', 'to', 'conferences', 'to', 'conferences', 'to', 'to'], ['scientific', 'conferences', 'the', '.', 'scientific', ',', 'conferences', 'conferences', 'the', 'to', 'scientific', 'or', 'or', 'a', 'scientific', 'thousands', 'it', 'scientific', ',', 'scientific', 'to', '.', 'scientific']]
+################################################################################
+IN SEQ: 	 b'some free ##thi ##nk ##ers regard this as showing that believers are expected to follow religious dog ##ma like sheep rather than to question and reason like humans .'
+GOLD SEQ: 	 b'atheist ##s , ag ##nostic ##s and other free ##thi ##nk ##ers regard this as showing that believers are expected to follow religious dog ##ma like sheep rather than to question and reason like humans .'
+PRED SEQ:	 b'some that regard free ##nk like like like like as like like as like like like as like to this to dog dog dog dog dog dog like like like to to to like to to like to like to like to like to like to to like to like to like to like to like to like to like to to to like to to like to like like like showing to to like to to'
+GOLD DIST: 	 [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['atheist', '##s', ',', 'ag', '##nostic', '##s', 'and', 'other']]
+PRED TOK: 	 [['regard', 'free', '##nk'], ['like', 'like', 'as', 'like', 'like', 'as', 'like', 'like', 'like', 'as', 'like', 'to', 'this', 'to', 'dog', 'dog', 'dog', 'dog', 'dog', 'dog', 'like', 'like', 'like', 'to', 'to', 'to', 'like', 'to', 'to', 'like', 'to', 'like', 'to', 'like', 'to', 'like', 'to', 'like', 'to', 'to', 'like', 'to', 'like', 'to', 'like', 'to', 'like', 'to', 'like', 'to', 'like', 'to', 'like', 'to', 'to', 'to', 'like', 'to', 'to', 'like', 'to', 'like', 'like', 'like', 'showing', 'to', 'to', 'like', 'to', 'to']]
+################################################################################
+IN SEQ: 	 b'this is an alleged sim ##pl ##ification of the rules governing the agreement of a past part ##ici ##ple followed by an in ##fin ##itive .'
+GOLD SEQ: 	 b'this is an alleged sim ##pl ##ification of the rules governing the agreement as applied to a past part ##ici ##ple followed by an in ##fin ##itive .'
+PRED SEQ:	 b'is an an sim the sim the the the the the the the the the the the the of of of of the the the the in the the the an an of an an an ##pl an the the an ##pl an the the an of an an of an an the the the the the the the the the the the the the the this the the the ##itive the the the the of an'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['as', 'applied', 'to']]
+PRED TOK: 	 [['an'], ['the', 'sim', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'of', 'of', 'of'], ['the', 'the'], ['the', 'the', 'the', 'an', 'an', 'of', 'an', 'an', 'an', '##pl', 'an', 'the', 'the', 'an', '##pl', 'an', 'the', 'the', 'an', 'of', 'an', 'an', 'of', 'an', 'an', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'this', 'the', 'the', 'the'], ['the', 'the', 'the', 'the', 'of', 'an']]
+################################################################################
+IN SEQ: 	 b'while serving prison in november 2006 , che ##e reportedly became ill , leading to speculation ##s from the sd ##p that he was poisoned .'
+GOLD SEQ: 	 b'while doing time in prison in november 2006 , che ##e reportedly became ill , leading to speculation ##s from the sd ##p that he was poisoned .'
+PRED SEQ:	 b'while while , , , , , , , he , , , , , , , , he in serving november leading november leading november was became , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .'
+GOLD DIST: 	 [0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['doing', 'time', 'in']]
+PRED TOK: 	 [['while'], [',', ',', ',', ',', ','], [',', ',', ',', ',', ',', ',', ',', ',', 'he', 'in', 'serving', 'november', 'leading', 'november', 'leading', 'november'], ['became', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'one elderly jewish man , the wheelchair bound leon k ##ling ##hoff ##er , was murdered by the hi ##jack ##ers and thrown overboard .'
+GOLD SEQ: 	 b'one elderly jewish man , the wheelchair - using leon k ##ling ##hoff ##er , was murdered by the hi ##jack ##ers and thrown overboard .'
+PRED SEQ:	 b'one , , the , , the , , the , , the , the , the the man , , the , the , the , the the , the the , , , , the and , , the , the , the , the the , , , the the , the , the the the , the , the , , the , the the , the the the , the , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['-', 'using']]
+PRED TOK: 	 [[','], [','], [',', ',', 'the', ',', ',', 'the', ',', 'the', ',', 'the', 'the', 'man', ',', ',', 'the', ',', 'the', ',', 'the', ',', 'the', 'the', ',', 'the', 'the', ',', ',', ',', ',', 'the'], [',', ',', 'the', ',', 'the', ',', 'the', ',', 'the', 'the', ',', ',', ',', 'the', 'the', ',', 'the', ',', 'the', 'the', 'the', ',', 'the', ',', 'the', ',', ',', 'the', ',', 'the', 'the', ',', 'the', 'the', 'the', ',', 'the', ',', ',']]
+################################################################################
+IN SEQ: 	 b'in 2006 , he joined his mother and younger brother , former nfl player marcus vic ##k , in forming the vic ##k foundation .'
+GOLD SEQ: 	 b'in 2006 , he joined his mother and younger brother , former miami dolphins player marcus vic ##k , in forming the vic ##k foundation .'
+PRED SEQ:	 b'in in ##k ##k ##k ##k ##k vic vic ##k vic ##k vic ##k vic , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , in ##k ##k ##k ##k vic ##k ##k ##k ##k vic ##k ##k ##k ##k ##k ##k ##k'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['miami', 'dolphins']]
+PRED TOK: 	 [['in', '##k', '##k', '##k', '##k', '##k', 'vic'], ['vic', '##k', 'vic', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', 'in', '##k', '##k', '##k', '##k', 'vic', '##k', '##k', '##k', '##k', 'vic', '##k', '##k', '##k', '##k', '##k', '##k', '##k']]
+################################################################################
+IN SEQ: 	 b'the tax justice networks financial secrecy index highlights places around the world that provide ( relatively ) safe haven ##s for tax refugees .'
+GOLD SEQ: 	 b'the tax justice networks financial secrecy index highlights places around the world that provide ( relatively ) safe haven ##s for tax evade ##rs .'
+PRED SEQ:	 b'the the tax the tax the tax the the the the the the the tax ( highlights highlights highlights the tax the tax the tax the tax the tax the tax the tax the tax the tax tax tax highlights the tax tax tax tax tax the tax the tax the tax the tax the tax the tax the tax the tax the tax the tax the the networks haven the tax tax highlights places refugees tax'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['evade', '##rs']]
+PRED TOK: 	 [['the'], ['the', 'tax', 'the', 'tax', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'tax', '(', 'highlights', 'highlights', 'highlights', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'tax', 'tax', 'highlights', 'the', 'tax', 'tax', 'tax', 'tax', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'tax', 'the', 'the'], ['haven', 'the', 'tax', 'tax'], ['tax']]
+################################################################################
+IN SEQ: 	 b'the group is led by professor tom ##oe , a handsome mad scientist , assisted by a woman named ka ##olin ##ite .'
+GOLD SEQ: 	 b'the group is led by professor tom ##oe , a mad scientist , assisted by a woman named ka ##olin ##ite .'
+PRED SEQ:	 b'the , , , a , , a by a by a group , , , a a by a by a by a by a by a , , a , a , a , a , a , , , a , , a by a by a by a by a by a by a by by a by by a by a , by a , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [[',', ','], [',', 'a'], ['by', 'a', 'group', ',', ',', ',', 'a', 'a', 'by', 'a', 'by', 'a', 'by', 'a', 'by', 'a', 'by', 'a', ',', ',', 'a', ',', 'a', ',', 'a', ',', 'a', ',', 'a', ',', ',', ',', 'a', ',', ',', 'a', 'by', 'a', 'by', 'a', 'by', 'a', 'by', 'a', 'by', 'a', 'by', 'a', 'by', 'by', 'a', 'by', 'by', 'a', 'by', 'a', ',', 'by', 'a', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'in february 1969 , he married actress emily mclaughlin to whom he remained married until his death only three months later .'
+GOLD SEQ: 	 b'in february 1969 , he married actress emily mclaughlin to whom he remained married until his death three months later .'
+PRED SEQ:	 b'in in married married married married married married married married married married married married married married married married married married married married married he married he remained he he he february whom whom whom whom whom whom whom whom married three three three mclaughlin he he he he he he he he he he he he he he he he he he he he he he he he he married married married married married married married married'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['in', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married'], ['he', 'he', 'he', 'february', 'whom', 'whom', 'whom', 'whom', 'whom', 'whom', 'whom', 'whom'], ['three', 'three', 'mclaughlin', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'married', 'married', 'married', 'married', 'married', 'married', 'married', 'married']]
+################################################################################
+IN SEQ: 	 b'punjab university library has beautiful two - storey building and total area of the building is 102 , 000 sq .'
+GOLD SEQ: 	 b'punjab university library has two - storey building and total area of the building is 102 , 000 sq .'
+PRED SEQ:	 b'punjab punjab the building building building 000 building , building building 102 building 102 building 102 building building 000 building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building building two building building building building building building building'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['punjab'], ['building', 'building'], ['building', ',', 'building', 'building', '102', 'building', '102', 'building', '102', 'building', 'building', '000', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'two', 'building', 'building', 'building', 'building', 'building', 'building', 'building']]
+################################################################################
+IN SEQ: 	 b"many american comics acknowledged islam ' s deportation comedic ##ally , often mocking the united states government simultaneously ."
+GOLD SEQ: 	 b"some american comics acknowledged islam ' s deportation comedic ##ally , often mocking the united states government simultaneously ."
+PRED SEQ:	 b"many many acknowledged comedic mocking mocking . the islam states the states ' states ' states ' states ' states states ' states states ' states ' states s , simultaneously often comics deportation ##ally . simultaneously simultaneously , , deportation ##ally ##ally comics comics comics mocking . islam states ' the comedic mocking . the comedic mocking mocking . islam american ##ally comics often acknowledged comedic . many deportation ##ally ##ally comics acknowledged ##ally . many"
+GOLD DIST: 	 [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['some']]
+PRED TOK: 	 [['many', 'acknowledged', 'comedic', 'mocking', 'mocking', '.', 'the', 'islam', 'states', 'the', 'states', "'", 'states', "'", 'states', "'", 'states', "'", 'states', 'states', "'", 'states', 'states', "'", 'states', "'", 'states', 's', ',', 'simultaneously', 'often', 'comics', 'deportation', '##ally', '.', 'simultaneously', 'simultaneously', ',', ',', 'deportation', '##ally', '##ally', 'comics', 'comics', 'comics', 'mocking', '.', 'islam', 'states', "'", 'the', 'comedic', 'mocking', '.', 'the', 'comedic', 'mocking', 'mocking', '.', 'islam'], ['##ally', 'comics', 'often', 'acknowledged', 'comedic', '.', 'many', 'deportation', '##ally', '##ally'], ['many']]
+################################################################################
+IN SEQ: 	 b'during the unnecessary horse ##play , ham ##lin fell and severely injured his hand .'
+GOLD SEQ: 	 b'during the horse ##play , ham ##lin fell and severely injured his hand .'
+PRED SEQ:	 b'during during unnecessary unnecessary ##play ##lin and and and injured horse injured ##play injured ##play severely severely and and ##lin and ##lin and ham horse injured horse injured horse injured horse ##lin and ##lin and ##lin and ham during the . . . hand horse injured ##play injured ##play severely ##play severely ##play severely ##play severely ##play severely and and . . . . hand unnecessary , , fell unnecessary , injured the injured injured injured injured'
+GOLD DIST: 	 [0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['during', 'during', 'unnecessary', 'unnecessary', '##play', '##lin', 'and', 'and', 'and', 'injured', 'horse', 'injured', '##play', 'injured', '##play', 'severely', 'severely', 'and', 'and', '##lin', 'and', '##lin', 'and', 'ham', 'horse', 'injured', 'horse', 'injured', 'horse', 'injured', 'horse', '##lin', 'and', '##lin', 'and', '##lin', 'and', 'ham'], ['.', '.', 'hand', 'horse', 'injured', '##play', 'injured', '##play', 'severely', '##play', 'severely', '##play', 'severely', '##play', 'severely', '##play', 'severely', 'and', 'and', '.', '.', '.', '.', 'hand', 'unnecessary', ',', ',', 'fell', 'unnecessary', ',', 'injured', 'the', 'injured', 'injured', 'injured', 'injured']]
+################################################################################
+IN SEQ: 	 b'born : fred ball , american movie studio executive and actor , executive board member of des ##il ##u productions , brother of come ##die ##nne lucille ball , in jamestown , new york ( d . 2007 ) ; john jar ##man , american politician , u . s . representative of oklahoma from 1951 to 1977 , in sal ##lis ##aw , oklahoma ( d . 1982 )'
+GOLD SEQ: 	 b'born : fred ball , american movie studio executive and actor , executive board member of des ##il ##u productions , brother of comedian lucille ball , in jamestown , new york ( d . 2007 ) ; john jar ##man , american politician , u . s . representative of oklahoma from 1951 to 1977 , in sal ##lis ##aw , oklahoma ( d . 1982 )'
+PRED SEQ:	 b'; , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['comedian']]
+PRED TOK: 	 [[',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'wexford youths fc played their first home match at the newly developed wexford youths football complex , on the 18th march 2007 . the game produced an excellent 1 - 0 victory over co ##bh ram ##bler ##s in front of a crowd of 2 , 130 people , tom elm ##es the goalscorer in the 55th minute .'
+GOLD SEQ: 	 b'wexford youths fc played their first home match at the newly developed wexford youths football complex , on the 18th march 2007 . the game produced an 1 - 0 victory over co ##bh ram ##bler ##s in front of a crowd of 2 , 130 people , tom elm ##es the goalscorer in the 55th minute .'
+PRED SEQ:	 b'wexford played the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'note : az ##eri ##s are , due to historical ties with various ancient iranian ##s and their cultural ties with persians , also included as an iranian people by a number of sources , although the modern azerbaijani language is a turkic language and the issue remains debated .'
+GOLD SEQ: 	 b'note : az ##eri ##s are , due to historical ties with various ancient iranian ##s and their cultural ties with persians , sometimes included as an iranian people by a number of sources , although the modern azerbaijani language is a turkic language and the issue remains debated .'
+PRED SEQ:	 b'note ##s and a language language language a language language a iranian iranian iranian iranian iranian ##s , the language language language language language language language a iranian iranian iranian language language language language language language iranian iranian iranian iranian ##s , , the ties , the ties , the ties , the , the , , the ties , the , the , the , , the , , , , the , , , , , , the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['sometimes']]
+PRED TOK: 	 [['language', 'a', 'language', 'language', 'a', 'iranian', 'iranian', 'iranian', 'iranian', 'iranian', '##s', ','], ['language', 'language', 'language', 'language', 'language', 'language', 'language', 'a', 'iranian', 'iranian', 'iranian', 'language', 'language', 'language', 'language', 'language', 'language', 'iranian', 'iranian', 'iranian', 'iranian', '##s', ',', ',', 'the', 'ties', ',', 'the', 'ties', ',', 'the', 'ties', ',', 'the', ',', 'the', ',', ',', 'the', 'ties', ',', 'the', ',', 'the', ',', 'the', ',', ',', 'the', ',', ',', ',', ',', 'the', ',', ',', ',', ',', ',', ',', 'the']]
+################################################################################
+IN SEQ: 	 b'the democratic convention received a great deal of media attention because of the number of demonstrators and the excessive use of force by the chicago police during what was supposed to be , as named by yi ##pp ##ie activist organizers , a festival of life .'
+GOLD SEQ: 	 b'the democratic convention received a great deal of media attention because of the number of demonstrators and the use of force by the chicago police during what was supposed to be , as named by yi ##pp ##ie activist organizers , a festival of life .'
+PRED SEQ:	 b'the of of of of of of of of of of the the of of of of of of of of of of of of of of the of of of of of of of of of of of of of , of of of of of of of of of of of of of of the the of of of of of of of of the the the of of the the of of of of of of of'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['of', 'of', 'of', 'of', 'of', 'of', 'of', 'of'], ['of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'the', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', ',', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'the', 'the', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'the', 'the', 'the', 'of', 'of', 'the', 'the', 'of', 'of', 'of', 'of', 'of', 'of', 'of']]
+################################################################################
+IN SEQ: 	 b"films included marvelous performances in kenneth bran ##agh ' s dead again ( 1991 ) , hamlet ( 1996 ) as king claudius and in john may ##bury ' s love is the devil ( 1998 ) , a difficult portrait of painter francis bacon ."
+GOLD SEQ: 	 b"films included performances in kenneth bran ##agh ' s dead again ( 1991 ) , hamlet ( 1996 ) as king claudius and in john may ##bury ' s love is the devil ( 1998 ) , a difficult portrait of painter francis bacon ."
+PRED SEQ:	 b'films films marvelous ( ) portrait ) ) s ) love ( ) love ( ) is is is ( ) s ) s ) s devil ) s the ) ) ) ( ) ( ) ) ( ) ( ) s ) ) ( ) ) ( ) s ) s ) s ( ) s ) ) ( ) ( ) ( ) ( ) ( ) ( ) s ) ( ) ( ) ( )'
+GOLD DIST: 	 [0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['films'], [')', ')', 's', ')', 'love', '(', ')', 'love', '(', ')', 'is', 'is', 'is', '(', ')', 's', ')', 's', ')', 's', 'devil', ')', 's', 'the', ')', ')', ')', '(', ')', '(', ')', ')', '(', ')', '(', ')', 's', ')', ')', '(', ')', ')', '(', ')', 's', ')', 's', ')', 's', '(', ')', 's', ')', ')', '(', ')', '(', ')', '(', ')', '(', ')', '(', ')', '(', ')', 's', ')', '(', ')', '(', ')', '(', ')']]
+################################################################################
+IN SEQ: 	 b'one of his novels , the name of the rose \xe2\x80\x94 which was eventually made into a movie starring sean conner ##y and christian slater \xe2\x80\x94 had many significant all ##usions to semi ##otic ##s \xe2\x80\x94 many of them sadly lost in the film version .'
+GOLD SEQ: 	 b'one of his novels , the name of the rose \xe2\x80\x94 which was eventually made into a movie starring sean conner ##y and christian slater \xe2\x80\x94 had many significant all ##usions to semi ##otic ##s \xe2\x80\x94 many of them lost in the film version .'
+PRED SEQ:	 b'one \xe2\x80\x94 of of of of of name of of of the the \xe2\x80\x94 of of of of of of of the the the the the \xe2\x80\x94 which was the \xe2\x80\x94 of of of of \xe2\x80\x94 of of of of \xe2\x80\x94 \xe2\x80\x94 of of of of \xe2\x80\x94 of \xe2\x80\x94 of \xe2\x80\x94 of of \xe2\x80\x94 of \xe2\x80\x94 of of of of of \xe2\x80\x94 the the the the the the the \xe2\x80\x94 the the the the the to the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['—'], ['of', 'of', 'of', 'of'], ['of', 'of'], ['the', '—', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'the', 'the', 'the', 'the', 'the'], ['—', 'of', 'of', 'of', 'of', '—', 'of', 'of', 'of', 'of', '—', '—', 'of', 'of', 'of', 'of', '—', 'of', '—', 'of', '—', 'of', 'of', '—', 'of', '—', 'of', 'of', 'of', 'of', 'of', '—', 'the', 'the', 'the', 'the', 'the', 'the', 'the', '—', 'the', 'the', 'the', 'the', 'the', 'to', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'his wife was nas ##ile ##le ( which means " she who is associated with long things " ) and his mother was ng ##ula ( which means " she who is pregnant " ) .'
+GOLD SEQ: 	 b'ny ##am ##be \' s wife was nas ##ile ##le ( which means " she who is associated with long things " ) and his mother was ng ##ula ( which means " she who is pregnant " ) .'
+PRED SEQ:	 b'his his his " " " who " " who " who " " " " " " " " " she who " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " ( " "'
+GOLD DIST: 	 [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['ny', '##am', '##be', "'", 's']]
+PRED TOK: 	 [['his', 'his', '"', '"', '"', 'who', '"', '"', 'who', '"', 'who', '"', '"', '"', '"', '"', '"', '"', '"'], ['"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '"', '(', '"', '"']]
+################################################################################
+IN SEQ: 	 b'he displayed his old fire in front of the american prosecutor , observing that u . s . president harry s . truman should be indicted for the mass bombing of japanese civilians .'
+GOLD SEQ: 	 b'he displayed his old fire in front of the american prosecutor , arguing that u . s . president harry s . truman should be indicted for the mass bombing of japanese civilians .'
+PRED SEQ:	 b'he . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['arguing']]
+PRED TOK: 	 [['.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.']]
+################################################################################
+IN SEQ: 	 b"the who are an english rock band who first came to prominence in the 1960s and grew in stature to become one of the greatest rock ' n ' roll bands of all time"
+GOLD SEQ: 	 b"the who are an english rock band who first came to prominence in the 1960s and grew in stature to be considered one of the greatest rock ' n ' roll bands of all time"
+PRED SEQ:	 b"who an an an an an an an in the the the the the the the the the rock are the to the the rock the the rock are of ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' the the the rock the to the in the the the the the who an in the the to who are who rock are"
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['be', 'considered']]
+PRED TOK: 	 [['an', 'an', 'an', 'an', 'an', 'an'], ['the', 'the', 'the', 'the', 'the', 'the', 'the'], ['are', 'the', 'to', 'the', 'the', 'rock', 'the', 'the', 'rock', 'are'], ["'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", "'", 'the', 'the', 'the', 'rock', 'the', 'to', 'the', 'in', 'the', 'the', 'the', 'the', 'the', 'who', 'an', 'in', 'the', 'the', 'to', 'who', 'are', 'who', 'rock', 'are']]
+################################################################################
+IN SEQ: 	 b'paul ralph eh ##rl ##ich ( born may 29 , 1932 ) is an american biologist , best known for his dire warnings about the consequences of population growth and limited resources .'
+GOLD SEQ: 	 b'paul ralph eh ##rl ##ich ( born may 29 , 1932 ) is an american biologist , best known for his warnings about the consequences of population growth and limited resources .'
+PRED SEQ:	 b'paul limited of population , , , , , the for known , , the , , , , , , , , consequences about the , , the , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['limited'], [',', ',', ',', ',', ',', 'the', 'for', 'known', ',', ',', 'the', ',', ',', ',', ',', ',', ',', ',', ',', 'consequences', 'about', 'the', ',', ',', 'the', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'tourists are drawn to the picturesque river bluff ##s and the mississippi river itself ; the great river road runs through the city .'
+GOLD SEQ: 	 b'tourists are drawn to the river bluff ##s and the mississippi river itself ; the great river road runs through the city .'
+PRED SEQ:	 b'tourists the the river the the the river the the the the the the river the the the the river the the river the river the the river the river the the the river the river the river the the river the the river the the the river the river the river the river the river the the the the the the the the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['the', 'river', 'the', 'the', 'the', 'the', 'the', 'the', 'river', 'the', 'the', 'the', 'the', 'river', 'the', 'the', 'river', 'the', 'river', 'the', 'the', 'river', 'the', 'river', 'the', 'the', 'the', 'river', 'the', 'river', 'the', 'river', 'the', 'the', 'river', 'the', 'the', 'river', 'the', 'the', 'the', 'river', 'the', 'river', 'the', 'river', 'the', 'river', 'the', 'river', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'mu ##nni beg ##um ) , ( , is a famous pakistani g ##ha ##zal singer .'
+GOLD SEQ: 	 b'mu ##nni beg ##um ) , ( , is a pakistani g ##ha ##zal singer .'
+PRED SEQ:	 b'mu , , , singer , , , , singer , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [[','], [',', ',', ',', ',', 'singer', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'she is an outspoken democrat and campaigned for john kerry in the 2004 presidential election .'
+GOLD SEQ: 	 b'she is an democrat and campaigned for john kerry in the 2004 presidential election .'
+PRED SEQ:	 b'she is for democrat democrat democrat democrat democrat democrat democrat an 2004 2004 2004 2004 2004 for in in in in in in the for in in . election john john an election and presidential election 2004 presidential outspoken is presidential election and for . she she she she she she she she campaigned election for . 2004 kerry she is election for in in the and 2004 kerry she is the outspoken an election an for . democrat democrat'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['democrat', 'democrat', 'democrat', 'democrat', 'democrat', 'democrat', 'democrat', 'an', '2004', '2004', '2004', '2004', '2004', 'for', 'in', 'in', 'in', 'in', 'in'], ['for', 'in', 'in', '.', 'election', 'john', 'john', 'an', 'election', 'and'], ['2004', 'presidential', 'outspoken', 'is', 'presidential', 'election', 'and', 'for'], ['she', 'she', 'she', 'she', 'she', 'she', 'she', 'she', 'campaigned', 'election', 'for', '.', '2004', 'kerry', 'she', 'is', 'election', 'for', 'in', 'in', 'the', 'and', '2004', 'kerry', 'she', 'is', 'the', 'outspoken', 'an', 'election', 'an', 'for', '.', 'democrat', 'democrat']]
+################################################################################
+IN SEQ: 	 b'27 march the controversial work ##cho ##ices industrial relations reforms come into effect .'
+GOLD SEQ: 	 b'27 march the work ##cho ##ices industrial relations reforms come into effect .'
+PRED SEQ:	 b'27 27 relations industrial controversial into ##cho effect relations industrial ##cho relations industrial controversial ##ices march work controversial into into into into into come come ##ices march march come industrial ##cho ##cho relations industrial ##cho relations industrial relations work work work reforms effect ##cho relations relations industrial relations march work work come come come come come march march come march march into into into into into effect effect effect relations industrial effect relations controversial ##ices march march come . .'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['27', 'relations', 'industrial'], ['into'], ['effect', 'relations', 'industrial', '##cho', 'relations', 'industrial', 'controversial'], ['march', 'work', 'controversial', 'into', 'into', 'into', 'into', 'into', 'come', 'come', '##ices', 'march', 'march', 'come', 'industrial', '##cho', '##cho', 'relations', 'industrial', '##cho', 'relations'], ['work', 'work', 'work'], ['effect', '##cho', 'relations', 'relations', 'industrial', 'relations', 'march', 'work', 'work'], ['come', 'come', 'come', 'come', 'march', 'march', 'come', 'march', 'march', 'into', 'into', 'into', 'into'], ['effect', 'effect', 'relations', 'industrial', 'effect', 'relations', 'controversial', '##ices', 'march', 'march', 'come'], ['.']]
+################################################################################
+IN SEQ: 	 b'u ##js works with those who support the interests of jewish students .'
+GOLD SEQ: 	 b'u ##js works with those it believes to support the interests of jewish students .'
+PRED SEQ:	 b'u u ##js jewish jewish jewish students support those who support who . the interests the the ##js the interests jewish works support support who of who ##js the interests ##js the . interests students works support who u of ##js those . interests the works . interests support those works support support support support who u of ##js the interests works support support who support who . students with interests the works u with ##js interests the works support'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['it', 'believes', 'to']]
+PRED TOK: 	 [['u'], ['jewish', 'jewish', 'jewish', 'students', 'support'], ['who', '.'], ['the', 'the', '##js', 'the', 'interests'], ['works', 'support', 'support', 'who', 'of', 'who', '##js', 'the', 'interests', '##js', 'the'], ['interests', 'students', 'works', 'support', 'who', 'u', 'of', '##js', 'those', '.', 'interests', 'the', 'works', '.', 'interests', 'support', 'those', 'works', 'support', 'support', 'support', 'support', 'who', 'u', 'of', '##js', 'the', 'interests', 'works', 'support', 'support', 'who', 'support', 'who', '.', 'students', 'with', 'interests', 'the', 'works', 'u', 'with', '##js', 'interests', 'the', 'works', 'support']]
+################################################################################
+IN SEQ: 	 b'the basis of swedish neutrality'
+GOLD SEQ: 	 b'basis of swedish neutrality'
+PRED SEQ:	 b'the the basis basis of swedish neutrality of swedish basis basis the swedish basis the swedish neutrality of swedish neutrality of swedish neutrality of the the swedish basis the swedish basis the swedish basis the swedish neutrality of the swedish basis the swedish of of of of swedish neutrality of the neutrality of the neutrality of the swedish basis of the neutrality of the neutrality of the neutrality of the neutrality of the neutrality of the neutrality of the neutrality'
+GOLD DIST: 	 [1.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['the', 'basis'], ['of', 'swedish', 'basis', 'basis', 'the', 'swedish', 'basis', 'the', 'swedish', 'neutrality', 'of', 'swedish', 'neutrality', 'of', 'swedish', 'neutrality', 'of', 'the', 'the', 'swedish', 'basis', 'the', 'swedish', 'basis', 'the', 'swedish', 'basis', 'the', 'swedish', 'neutrality', 'of', 'the', 'swedish', 'basis', 'the', 'swedish', 'of', 'of', 'of', 'of', 'swedish', 'neutrality', 'of', 'the', 'neutrality', 'of', 'the', 'neutrality', 'of', 'the', 'swedish', 'basis', 'of', 'the', 'neutrality', 'of', 'the', 'neutrality', 'of', 'the', 'neutrality', 'of', 'the', 'neutrality', 'of', 'the', 'neutrality', 'of', 'the', 'neutrality', 'of', 'the', 'neutrality']]
+################################################################################
+IN SEQ: 	 b"simon belmont and mega man were appropriately replaced by sam ##us ara ##n , the metro ##id heroine who had not appeared in the cartoon , and mother brain ' s second - in - command became ur ##ano ##s , the demi ##go ##d from kid ic ##arus ."
+GOLD SEQ: 	 b"simon belmont and mega man were replaced by sam ##us ara ##n , the metro ##id heroine who had not appeared in the cartoon , and mother brain ' s second - in - command became ur ##ano ##s , the demi ##go ##d from kid ic ##arus ."
+PRED SEQ:	 b'simon and and and and , the who who the who the the the the the the the the the the the were the in , the the the in in s command ##n , , the in in - - , the the the the , the the the the the were the the the the mega ##go -'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['and', 'and', 'and'], ['who'], ['who', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'were', 'the'], ['the', 'the', 'in', 'in', 's', 'command', '##n', ',', ',', 'the', 'in', 'in', '-', '-', ',', 'the', 'the', 'the', 'the', ',', 'the', 'the', 'the', 'the', 'the', 'were', 'the', 'the', 'the', 'the', 'mega'], ['-']]
+################################################################################
+IN SEQ: 	 b'however , others do not belong to any religious group but do believe in the supernatural , and are common in some sect ##s of buddhism and tao ##ism , in which the ##ism is not a doctrine .'
+GOLD SEQ: 	 b'however , others may or may not belong to any religious group but do believe in the supernatural , and are common in some sect ##s of buddhism and tao ##ism , in which the ##ism is not a doctrine .'
+PRED SEQ:	 b'however in , in the in in in in in in in in in in in in in in in , in in the in the do in do in , in in in in , in in in in , , in in in in , in in in , in the do in , , in in in'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['may', 'or', 'may']]
+PRED TOK: 	 [['in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', ',', 'in', 'in', 'the', 'in', 'the', 'do', 'in', 'do', 'in', ',', 'in', 'in', 'in', 'in', ',', 'in', 'in', 'in', 'in', ',', ',', 'in', 'in', 'in', 'in', ',', 'in', 'in', 'in', ',', 'in', 'the', 'do', 'in', ',', ',', 'in', 'in', 'in']]
+################################################################################
+IN SEQ: 	 b"in october 1951 , the tibetan government , facing military invasion , confirmed the seventeen point agreement recognizing china ' s sovereignty , few months later the people ' s liberation army entered l ##has ##a ."
+GOLD SEQ: 	 b"in october 1951 , the tibetan government , facing military pressure from pl ##a , confirmed the seventeen point agreement recognizing china ' s sovereignty , few months later the people ' s liberation army entered l ##has ##a ."
+PRED SEQ:	 b'in in , , , the , , the , , the , , the , , the , , the , , , the , , , the , , the , , the , , , the , , , , , the , , , , , , , the , , , , the , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['pressure', 'from', 'pl', '##a']]
+PRED TOK: 	 [['in', ',', ','], [','], [',', ',', 'the', ',', ',', 'the', ',', ',', 'the', ',', ',', ',', 'the', ',', ',', ',', 'the', ',', ',', 'the', ',', ',', 'the', ',', ',', ',', 'the', ',', ',', ',', ',', ',', 'the', ',', ',', ',', ',', ',', ',', ',', 'the', ',', ',', ',', ',', 'the', ',', ',']]
+################################################################################
+IN SEQ: 	 b'" ga ##ith ##ers ##burg : then and now " takes you on a photographic journey through the city \' s rich history . . . ga ##ith ##ers ##burg : then & now'
+GOLD SEQ: 	 b'" ga ##ith ##ers ##burg : then and now " takes you on a photographic journey through the city \' s history . . . ga ##ith ##ers ##burg : then & now'
+PRED SEQ:	 b'. " then a then then : " then a then : . through now now now a then ##burg " then now now now now ##ith . . ##ers now a then ##ers now now then ##ith " then ##ith . history " then ga then now now now now now takes takes takes takes takes takes takes takes'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['.'], ['then', 'then', ':', '"', 'then', 'a', 'then', ':', '.'], ['now', 'now', 'now', 'a', 'then', '##burg', '"', 'then', 'now', 'now', 'now', 'now', '##ith'], ['a', 'then', '##ers', 'now', 'now', 'then', '##ith', '"', 'then', '##ith', '.', 'history', '"', 'then', 'ga', 'then', 'now', 'now', 'now', 'now', 'now', 'takes', 'takes', 'takes', 'takes', 'takes', 'takes', 'takes', 'takes']]
+################################################################################
+IN SEQ: 	 b'this commentary originated as a series of spoken messages given by lee over a number of years during an extended series of training ##s offered to saints who meet in local churches .'
+GOLD SEQ: 	 b'this commentary originated as a series of spoken messages given by lee over a number of years during an extended series of training ##s offered to believers who meet in local churches .'
+PRED SEQ:	 b'this of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['believers']]
+PRED TOK: 	 [['of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of']]
+################################################################################
+IN SEQ: 	 b'after intense therapy to regain her motor skills and speech , she appeared on late show with david letterman on june 19 , 2008 , without the need of a wheelchair .'
+GOLD SEQ: 	 b'after therapy to regain her motor skills and speech , she appeared on late show with david letterman on june 19 , 2008 , without the need of a wheelchair .'
+PRED SEQ:	 b'after intense on motor with on and on on on on on and on , , , , , on , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,'
+GOLD DIST: 	 [0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['motor'], ['and', 'on', 'on', 'on', 'on', 'on', 'and', 'on'], [',', ',', ',', 'on', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'ip ##hot ##o can easily share files with users of other programs and operating systems , including windows and linux , since it uses industry standard file formats .'
+GOLD SEQ: 	 b'ip ##hot ##o can easily share files with users of other programs and operating systems , including windows and linux , since it uses standard file formats .'
+PRED SEQ:	 b'ip . , , share share ##o , share share share can with and and and and and and and and , and and and and , , share share ##o , , and , , , , and and and and and and and and and and and and and and and and and and , and and and'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [[',', ',', 'share', 'share', '##o', ',', 'share', 'share', 'share', 'can', 'with', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', ',', 'and', 'and', 'and', 'and', ',', ',', 'share', 'share', '##o', ',', ',', 'and', ',', ',', ',', ',', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', ',', 'and', 'and', 'and']]
+################################################################################
+IN SEQ: 	 b'the gr ##etz ##ky family is a canadian - american family to which the legendary hockey player , wayne gr ##etz ##ky , belongs .'
+GOLD SEQ: 	 b'the gr ##etz ##ky family is a canadian - american family to which the ice hockey player , wayne gr ##etz ##ky , belongs .'
+PRED SEQ:	 b'the family family family family family to family to family to family to family family to family family family family family family family family family family to family to family family belongs gr ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky ##ky'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['ice']]
+PRED TOK: 	 [['family', 'family', 'family'], ['family', 'to', 'family', 'to', 'family', 'to', 'family', 'family', 'to', 'family', 'family', 'family', 'family', 'family', 'family', 'family', 'family', 'family', 'family', 'to', 'family', 'to', 'family', 'family'], ['gr', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky', '##ky']]
+################################################################################
+IN SEQ: 	 b'the na ##c appropriated a quote from racist scholar charles murray and added their commentary so as to appropriate the quote for their purposes .'
+GOLD SEQ: 	 b'the na ##c appropriated a quote from scholar charles murray and added their commentary so as to appropriate the quote for their purposes .'
+PRED SEQ:	 b'the the a quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote appropriate quote appropriate quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote quote appropriate their their as to to to'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['the'], ['quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'appropriate', 'quote', 'appropriate', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'quote', 'appropriate'], ['their'], ['to', 'to']]
+################################################################################
+IN SEQ: 	 b'in march 2015 , he earned the role as texas ranger hal hartman in the texas chain saw massacre prequel leather ##face .'
+GOLD SEQ: 	 b'in march 2015 , he obtained the role as texas ranger hal hartman in the texas chain saw massacre prequel leather ##face .'
+PRED SEQ:	 b'in in in texas in texas in texas texas texas in texas in texas texas texas the the texas texas the texas the texas texas the texas the texas texas the the texas texas texas in texas in texas in texas in texas texas texas the texas in texas in texas in the texas in in in in the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['obtained']]
+PRED TOK: 	 [['in', 'in'], ['in', 'texas', 'in', 'texas', 'texas', 'texas', 'in', 'texas', 'in', 'texas', 'texas', 'texas', 'the', 'the', 'texas', 'texas', 'the', 'texas', 'the', 'texas', 'texas', 'the', 'texas', 'the', 'texas', 'texas', 'the', 'the', 'texas', 'texas', 'texas', 'in', 'texas', 'in', 'texas', 'in', 'texas', 'in', 'texas', 'texas', 'texas', 'the', 'texas', 'in', 'texas', 'in', 'texas'], ['in', 'in', 'in', 'in', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'and , while not currently a member , admitted that he had joined the party when he was 14 .'
+GOLD SEQ: 	 b'and , while not currently a member , has stated that he had joined the party when he was 14 .'
+PRED SEQ:	 b'and , he he he he , he he he he , he he he he , he he he , he , he he he , he he he , he , he he , he he he he he he he he he he he , he he , he , he he he , , the 14'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['has', 'stated']]
+PRED TOK: 	 [['he', 'he', ',', 'he', 'he', 'he', 'he', ',', 'he', 'he', 'he', 'he', ',', 'he', 'he', 'he', ',', 'he', ',', 'he', 'he', 'he', ',', 'he', 'he', 'he', ',', 'he', ',', 'he', 'he', ',', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', ',', 'he', 'he', ',', 'he', ',', 'he', 'he', 'he', ',', ',', 'the']]
+################################################################################
+IN SEQ: 	 b'he first decides on the level of confidence required and the to ##ler ##able margin of error .'
+GOLD SEQ: 	 b'the experiment ##er first decides on the level of confidence required and the to ##ler ##able margin of error .'
+PRED SEQ:	 b'he he the the the the the the the the the the the the the the the the the the of of of of of of of of of of of of of of of of of of of of of of of of of of of the the the the the the the the the the the the the'
+GOLD DIST: 	 [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['the', 'experiment', '##er']]
+PRED TOK: 	 [['he'], ['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the'], ['of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'both trails lead to spectacular views of the surrounding areas , but have inherent dangers as well .'
+GOLD SEQ: 	 b'both trails lead to extensive views of the surrounding areas , but have inherent dangers as well .'
+PRED SEQ:	 b'both both trails lead spectacular well to spectacular to areas as views surrounding views surrounding views well but spectacular but to areas , the areas , the to areas but to inherent the views well both lead lead lead lead trails trails of have both both both both have lead of have lead of have lead . dangers well but'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['extensive']]
+PRED TOK: 	 [['both'], ['spectacular', 'well'], ['to', 'areas', 'as'], ['views', 'surrounding', 'views', 'well', 'but', 'spectacular', 'but', 'to'], ['the', 'areas', ',', 'the', 'to', 'areas'], ['to'], ['the', 'views'], ['both', 'lead', 'lead', 'lead', 'lead', 'trails', 'trails', 'of', 'have', 'both', 'both', 'both', 'both', 'have', 'lead', 'of', 'have', 'lead', 'of', 'have', 'lead'], ['dangers', 'well', 'but']]
+################################################################################
+IN SEQ: 	 b'k ##haw ##aja muhammad sa ##f ##dar was a famous politician from pakistan muslim league .'
+GOLD SEQ: 	 b'k ##haw ##aja muhammad sa ##f ##dar was a politician from pakistan muslim league .'
+PRED SEQ:	 b'k k k ##aja muhammad . muhammad . muhammad . famous a muhammad sa pakistan sa pakistan sa ##haw ##f famous was from from pakistan sa muslim sa pakistan sa pakistan sa ##haw ##f ##haw ##f famous was k politician was from pakistan league famous ##f ##f muhammad sa muhammad from muslim muslim muslim muslim muslim muslim muslim muslim muslim'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['k', 'k'], ['.', 'muhammad', '.', 'muhammad', '.'], ['a', 'muhammad', 'sa', 'pakistan', 'sa', 'pakistan', 'sa', '##haw', '##f', 'famous', 'was', 'from'], ['sa'], ['sa', 'pakistan', 'sa', 'pakistan', 'sa', '##haw', '##f', '##haw', '##f', 'famous', 'was', 'k', 'politician', 'was', 'from', 'pakistan'], ['famous', '##f', '##f', 'muhammad', 'sa', 'muhammad', 'from', 'muslim', 'muslim', 'muslim', 'muslim', 'muslim', 'muslim', 'muslim', 'muslim', 'muslim']]
+################################################################################
+IN SEQ: 	 b'explanations regarding the nature and origin of the supposed phenomenon differ greatly .'
+GOLD SEQ: 	 b'explanations regarding the nature and origin of the phenomenon differ greatly .'
+PRED SEQ:	 b'explanations . the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'ju ##tta ##h was a town in ancient palestine .'
+GOLD SEQ: 	 b'ju ##tta ##h was a town in ancient israel .'
+PRED SEQ:	 b'ju ju ju town in ##h ##h ancient a palestine . in ##tta ##tta ##tta town ancient a palestine . . in . palestine town in ##tta ##tta ##tta ##tta town a palestine . . palestine . . . . . . palestine was ancient ancient ancient ancient ancient ##h ##tta town a ##tta ##tta ##tta ##tta ##tta ju ju'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['israel']]
+PRED TOK: 	 [['ju', 'ju'], ['##h', '##h'], ['a'], ['in', '##tta', '##tta', '##tta', 'town', 'ancient', 'a', 'palestine', '.', '.', 'in', '.', 'palestine', 'town', 'in', '##tta', '##tta', '##tta', '##tta', 'town', 'a', 'palestine', '.', '.', 'palestine', '.', '.', '.', '.', '.', '.', 'palestine', 'was', 'ancient', 'ancient', 'ancient', 'ancient', 'ancient', '##h', '##tta', 'town', 'a', '##tta', '##tta', '##tta', '##tta', '##tta', 'ju', 'ju']]
+################################################################################
+IN SEQ: 	 b'although , what would e ##qua ##te to a notable career of the day , the idea of being a regiment painter did not appeal to fed ##oto ##v , who understood that a true creative artist should devote himself to art completely and so choosing to concentrate more fully on his painting , he retired himself from the army in 1844 and handed himself over to his artist ##ry .'
+GOLD SEQ: 	 b'although , what would e ##qua ##te to a notable career of the day , the idea of being a regiment painter did not appeal to fed ##oto ##v , who believed that a true creative artist should devote himself to art completely and so choosing to concentrate more fully on his painting , he retired himself from the army in 1844 and handed himself over to his artist ##ry .'
+PRED SEQ:	 b'although , the the to a to a to a to a to to a to to to to his to to to a to to to to to to to to to to to to to to to to to to to to to to to to to , to to to to a to to to to to to to to to to to to to to to to to to to to to to to to to'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['believed']]
+PRED TOK: 	 [['the', 'the'], ['a'], ['a', 'to', 'to', 'a', 'to', 'to', 'to'], ['to', 'to', 'to', 'a', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', ',', 'to', 'to', 'to', 'to', 'a', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to']]
+################################################################################
+IN SEQ: 	 b'vanity fair writer and editor david kam ##p gave his book about the spread of american mass - media culinary so ##phi ##stic ##ation the prophet ##ic title : the united states of ar ##ug ##ula : how we became a go ##ur ##met nation ( clarkson potter , 2006 ) .'
+GOLD SEQ: 	 b'vanity fair writer and editor david kam ##p gave his book about the spread of american mass - media culinary so ##phi ##stic ##ation the title : the united states of ar ##ug ##ula : how we became a go ##ur ##met nation ( clarkson potter , 2006 ) .'
+PRED SEQ:	 b'vanity the editor united : about the editor editor editor editor the mass media : about the the the the the the the the the the so the the the the the the the the the the ##met the the : the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['the'], ['united', ':'], ['editor', 'editor', 'editor', 'editor'], ['mass', 'media', ':', 'about', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'so', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', '##met', 'the', 'the'], ['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'within the district there are two schools , the irene e . fe ##ld ##kir ##chner elementary school ( grades k - 3 ) , which proudly carries a blue ribbon schools program designation and the green brook middle school ( grades 4 - 8 ) .'
+GOLD SEQ: 	 b'within the district there are two schools , the irene e . fe ##ld ##kir ##chner elementary school ( grades k - 3 ) , which carries a blue ribbon schools program designation and the green brook middle school ( grades 4 - 8 ) .'
+PRED SEQ:	 b'within . . two , schools school , schools school ) schools school school school school school school program a e school school schools school school ) e school school ) schools school ) ) ) the ) the ) grades schools ) ) ) the grades schools school ) ) the ) the ) the grades grades schools school schools school ) the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['two', ',', 'schools', 'school', ',', 'schools', 'school', ')', 'schools', 'school', 'school', 'school', 'school', 'school', 'school', 'program', 'a', 'e', 'school', 'school', 'schools', 'school', 'school', ')', 'e', 'school', 'school', ')', 'schools', 'school', ')', ')', ')', 'the', ')', 'the', ')', 'grades', 'schools', ')', ')', ')', 'the', 'grades', 'schools', 'school', ')', ')', 'the', ')', 'the', ')', 'the', 'grades', 'grades', 'schools', 'school', 'schools', 'school', ')', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'when the dying high lama asks him to take charge after his passing , conway must decide between embracing the inner peace , love , and sense of purpose he has discovered in this mysterious world or attempt to return to civilization as he knows it .'
+GOLD SEQ: 	 b'when the dying high lama asks him to take charge after his death , conway must decide between embracing the inner peace , love , and sense of purpose he has discovered in this mysterious world or attempt to return to civilization as he knows it .'
+PRED SEQ:	 b'when when asks lama , , , to lama , , to to dying to he he he asks lama , to to to to to between or he , to to to to to passing he , to to to to to to to to to to to to to to to to to to the the to to the the , to to to the to to , , to to to , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['death']]
+PRED TOK: 	 [['when'], ['lama'], ['lama', ',', ','], ['to', 'dying', 'to'], ['he', 'he', 'asks', 'lama', ',', 'to', 'to', 'to', 'to', 'to', 'between', 'or', 'he', ',', 'to', 'to', 'to', 'to', 'to', 'passing', 'he', ',', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'the', 'the', 'to', 'to', 'the', 'the', ',', 'to', 'to', 'to', 'the', 'to', 'to', ',', ',', 'to', 'to', 'to', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'the institutional church in england briefly ac ##qui ##es ##ced to catholic practice during the reign of the catholic queen mary i from 155 ##3 to 155 ##8 . mary believed she had a mission to bring back the whole of england to the catholic faith .'
+GOLD SEQ: 	 b'the institutional church in england ac ##qui ##es ##ced to catholic practice during the reign of the catholic queen mary i from 155 ##3 to 155 ##8 . mary believed she had a mission to bring back the whole of england to the catholic faith .'
+PRED SEQ:	 b'the the the catholic the the the the to the the to the to the the the the the the the to the the the the the the the the the the the the the the the the the the the the to to catholic the the the the the the the the the the the the the the the the the the the the the to the to the the the the the the to the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['the', 'the', 'the'], ['the', 'to', 'the', 'to', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'to', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'to', 'to'], ['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'to', 'the', 'to', 'the', 'the', 'the', 'the', 'the', 'the', 'to', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b"exploit ##ing local super ##sti ##tious beliefs , particularly those related to spiritual or demonic possession or witchcraft , helen uk ##pa ##bio ' s organisation has grown expo ##nent ##ional ##ly throughout nigeria and west africa since its foundation ."
+GOLD SEQ: 	 b"exploit ##ing super ##sti ##tious beliefs , particularly those related to spiritual or demonic possession or witchcraft , helen uk ##pa ##bio ' s organisation has grown expo ##nent ##ional ##ly throughout nigeria and west africa since its foundation ."
+PRED SEQ:	 b"exploit ##ly ##ly grown grown grown or , , , , , , , , , its demonic to organisation uk , since foundation expo , , , , its spiritual those related , , , , or or or or or or or its ##ional its west s ##tious , , , , , , , foundation those related those , , , or or or or or or or . foundation its ##ional west ' helen west '"
+GOLD DIST: 	 [0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['##ly', '##ly', 'grown', 'grown', 'grown', 'or'], [',', ',', ',', ',', ',', ',', ',', ',', 'its', 'demonic', 'to', 'organisation', 'uk', ',', 'since', 'foundation', 'expo', ',', ',', ',', ',', 'its', 'spiritual'], [',', ',', ',', 'or', 'or', 'or', 'or', 'or', 'or', 'or'], ['##ional', 'its', 'west', 's', '##tious', ',', ',', ',', ',', ',', ',', ','], ['those', 'related', 'those', ',', ',', ',', 'or', 'or', 'or', 'or', 'or', 'or', 'or'], ['foundation', 'its', '##ional', 'west', "'", 'helen', 'west', "'"]]
+################################################################################
+IN SEQ: 	 b'the text of the two private secrets were both handed to blessed pope pius ix on july 18 1851 . this text was rediscovered by reverend father marcel co ##rte ##ville m . s .'
+GOLD SEQ: 	 b'the text of the two private secrets were both handed to pope pius ix on july 18 1851 . this text was rediscovered by reverend father marcel co ##rte ##ville m . s .'
+PRED SEQ:	 b'text . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . the text two handed text text july text july text july to text . . . . . . . . . . .'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['text', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.'], ['text', 'july', 'text', 'july', 'text', 'july', 'to', 'text'], ['.', '.', '.', '.', '.', '.', '.', '.', '.']]
+################################################################################
+IN SEQ: 	 b"as brett crossed the plate , new york manager billy martin approached home plate umpire tim mcc ##lellan ##d and politely requested that brett ' s bat be examined ."
+GOLD SEQ: 	 b"as brett crossed the plate , new york manager billy martin approached home plate umpire tim mcc ##lellan ##d and requested that brett ' s bat be examined ."
+PRED SEQ:	 b"as brett crossed approached , ' be ' ' be ' be ' ' brett crossed approached crossed umpire examined plate home brett mcc plate requested plate approached that brett plate crossed ##lellan plate requested brett ##d ' ' ' ' ' york plate home plate home plate requested brett ##d s brett brett ##d s brett brett ##d the brett ##d brett ##d s brett plate requested brett ##d s brett brett brett plate requested plate requested brett plate"
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [[',', "'", 'be', "'", "'", 'be', "'", 'be', "'", "'", 'brett', 'crossed', 'approached', 'crossed'], ['examined', 'plate', 'home', 'brett'], ['plate'], ['plate', 'approached'], ['plate', 'crossed', '##lellan', 'plate', 'requested', 'brett', '##d'], ["'", "'", "'", "'", 'york', 'plate', 'home', 'plate', 'home', 'plate', 'requested', 'brett', '##d'], ['brett', 'brett', '##d', 's', 'brett', 'brett', '##d', 'the', 'brett', '##d', 'brett', '##d', 's', 'brett', 'plate', 'requested', 'brett', '##d', 's', 'brett', 'brett', 'brett', 'plate', 'requested', 'plate', 'requested', 'brett', 'plate']]
+################################################################################
+IN SEQ: 	 b'daniel w . " danny " strong ( born june 6 , 1974 ) is an american actor and emmy - winning writer in film and television .'
+GOLD SEQ: 	 b'daniel w . " danny " strong ( born june 6 , 1974 ) is an american actor and writer in film and television .'
+PRED SEQ:	 b'daniel . " . " " and " emmy , " and " " " and " and " . " and " and " " " . " " and " . " and " and " and " . " and " and " and . " and " and " and " and " and " and " and " and " and " and " and " and " . " . . and " "'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['"', '"', 'and', '"', 'emmy', ',', '"', 'and', '"', '"', '"', 'and', '"', 'and', '"', '.', '"', 'and', '"', 'and', '"', '"', '"', '.', '"', '"', 'and', '"', '.', '"', 'and', '"', 'and', '"', 'and', '"', '.', '"', 'and', '"', 'and', '"', 'and', '.', '"', 'and', '"', 'and', '"', 'and', '"', 'and', '"', 'and', '"', 'and', '"', 'and', '"', 'and', '"', 'and', '"', 'and', '"', 'and', '"', 'and', '"', '.', '"', '.', '.', 'and', '"', '"']]
+################################################################################
+IN SEQ: 	 b'there is debate about whether democracy is a consequence of this economic growth , a cause of it , or completely unrelated to it .'
+GOLD SEQ: 	 b'there is debate about whether democracy is a consequence of economic growth , a cause of it , or completely unrelated to it .'
+PRED SEQ:	 b'there of of of of of of of of of it a a of of of of of of of it a a a it a a it a it a it a it it it , it , it , it , it , it , it , it a a a a a a of of of of of of of is a a a , , , , , , it a , it a a a'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['of', 'of', 'of', 'of', 'of', 'of', 'of'], ['a', 'a', 'of', 'of', 'of', 'of', 'of', 'of', 'of'], ['a', 'a', 'a', 'it', 'a', 'a', 'it', 'a', 'it', 'a', 'it', 'a', 'it', 'it', 'it', ',', 'it', ',', 'it', ',', 'it', ',', 'it', ',', 'it', ',', 'it', ',', 'it', 'a', 'a', 'a', 'a', 'a', 'a', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'is', 'a', 'a', 'a', ',', ',', ',', ',', ',', ',', 'it', 'a', ',', 'it', 'a', 'a', 'a']]
+################################################################################
+IN SEQ: 	 b'es ##ston ##ia ( russia ) an offensive term applied to estonian ##s and estonia portraying them as nazi sy ##mp ##athi ##ser ##s .'
+GOLD SEQ: 	 b'es ##ston ##ia ( russia ) an offensive term applied to estonian ##s and estonia in attempts to portray them as nazi sy ##mp ##athi ##ser ##s .'
+PRED SEQ:	 b'es offensive offensive offensive to ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s applied offensive ( russia ##s ##s ##s ##s ##s ##s ##s ##s ##s ##s an offensive es offensive es offensive es applied offensive es applied offensive sy russia russia russia russia . . . as ##s as ##s ##s ##s ##s ##s ##s'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['in', 'attempts', 'to', 'portray']]
+PRED TOK: 	 [['offensive', 'offensive', 'offensive', 'to', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', 'applied', 'offensive'], ['##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s', '##s'], ['es', 'offensive', 'es', 'offensive', 'es'], ['offensive', 'es', 'applied', 'offensive'], ['russia', 'russia', 'russia', 'russia'], ['.', '.', 'as', '##s', 'as', '##s', '##s', '##s', '##s', '##s', '##s']]
+################################################################################
+IN SEQ: 	 b'it includes a lame ##nt for henry frederick , prince of wales , who was on good terms with fans ##haw ##e .'
+GOLD SEQ: 	 b'his output includes a lame ##nt for henry frederick , prince of wales , who was on good terms with fans ##haw ##e .'
+PRED SEQ:	 b'it , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , on good , , , , , , , , , , , , , , , , , , , a lame ##nt . . . . , , , , , , , includes ##haw includes ##haw includes ##haw includes ##haw includes ##haw . henry was a'
+GOLD DIST: 	 [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['his', 'output']]
+PRED TOK: 	 [[',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', 'on', 'good', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ','], ['.', '.', '.', ',', ',', ',', ',', ',', ',', ',', 'includes', '##haw', 'includes', '##haw', 'includes', '##haw', 'includes', '##haw', 'includes', '##haw', '.', 'henry', 'was', 'a']]
+################################################################################
+IN SEQ: 	 b'" hostel part ii " was one of the most stolen films on the internet , according to pirate ##bay .'
+GOLD SEQ: 	 b'" hostel part ii " was one of the most downloaded films on the internet , according to pirate ##bay .'
+PRED SEQ:	 b'" " the one one ii the one part the the the the the the the the the the the " the " the " the " the " the " the " " " " the " the " the " the the " the " the " the " the " the " the " the " the " the " the " the " the " the " the " the " the " the " the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['downloaded']]
+PRED TOK: 	 [['one', 'one', 'ii'], ['one', 'part', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', '"', '"', '"', 'the', '"', 'the', '"', 'the', '"', 'the', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the', '"', 'the']]
+################################################################################
+IN SEQ: 	 b'his family is jewish , and he is related to come ##die ##nne amy sc ##hum ##er .'
+GOLD SEQ: 	 b'his family is jewish , and he is related to comedian amy sc ##hum ##er .'
+PRED SEQ:	 b'his family is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is ##er is is is is is is is is is is is is is is is is is is is is is is is is is is is is ##er is related is is . . . . ##er'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['comedian']]
+PRED TOK: 	 [['is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', '##er', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', '##er'], ['is', 'is'], ['.', '.', '.', '##er']]
+################################################################################
+IN SEQ: 	 b'the uncle ##an animals are listed in the book of levi ##ticus in the holy bible .'
+GOLD SEQ: 	 b'the uncle ##an animals are listed in the book of levi ##ticus in the bible .'
+PRED SEQ:	 b'the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'the 61 ##3 mit ##z ##vot are divided into three general categories .'
+GOLD SEQ: 	 b'the 61 ##3 mit ##z ##vot have been divided into three general categories .'
+PRED SEQ:	 b'the ##3 ##3 ##z ##z ##z ##z mit divided ##3 into into into mit ##z ##z ##z general divided general ##3 are general three are are ##z ##z ##z ##z ##z ##z ##z 61 three the divided ##3 three are ##3 categories ##vot into are general ##vot are are general into into mit divided ##3 61 61 categories into into are . 61 three are 61 the divided ##3 three 61 61 the categories into into ##vot into into are'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['have', 'been']]
+PRED TOK: 	 [['##3', '##z', '##z', '##z', '##z', 'mit', 'divided', '##3', 'into', 'into', 'into'], ['##z', '##z', 'general', 'divided', 'general', '##3', 'are', 'general', 'three', 'are', 'are', '##z', '##z', '##z', '##z', '##z', '##z', '##z', '61', 'three', 'the', 'divided', '##3', 'three', 'are', '##3', 'categories', '##vot', 'into', 'are', 'general'], ['are'], ['into', 'into', 'mit', 'divided', '##3', '61', '61'], ['into', 'into', 'are'], ['61', 'three', 'are', '61', 'the', 'divided', '##3', 'three', '61', '61', 'the', 'categories', 'into', 'into', '##vot', 'into', 'into', 'are']]
+################################################################################
+IN SEQ: 	 b'on november 13 , 1983 , the devils were destroyed by the edmonton oilers , 13 - 4 . wayne gr ##etz ##ky was upset that former teammate ron low played for what he considered an inferior team , and made this comment in a post - game interview :'
+GOLD SEQ: 	 b'on november 13 , 1983 , the devils were defeated by the edmonton oilers , 13 - 4 . wayne gr ##etz ##ky was upset that former teammate ron low played for what he considered an inferior team , and made this comment in a post - game interview :'
+PRED SEQ:	 b'on , , the , , , , , the , , , , the inferior - , , , , , , , , an inferior inferior - considered , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['defeated']]
+PRED TOK: 	 [[',', ',', ',', ',', 'the', ',', ',', ',', ',', 'the', 'inferior'], [',', ',', ',', ',', ',', ',', ',', ','], ['inferior'], ['considered', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b"while members of npr ' s audience are more likely to be college educated than those who listen to other radio outlets , fairness and accuracy in reporting , a liberal progressive media watch ##dog group , disputes the claim of a liberal bias ."
+GOLD SEQ: 	 b"while members of npr ' s audience are more likely to be college educated than those who listen to other radio outlets , fairness and accuracy in reporting , a progressive media watch ##dog group , disputes the claim of a liberal bias ."
+PRED SEQ:	 b"while while ' ##dog , ##dog , to to in in of in of in of , those who members , , to to , to , , in in in of of of , , to to , , to to more more more be liberal liberal liberal liberal liberal liberal audience s , s , , , in"
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['while'], ['##dog', ',', '##dog', ','], ['to', 'in', 'in', 'of', 'in', 'of', 'in', 'of', ','], ['members'], ['to', 'to'], ['to', ',', ',', 'in', 'in', 'in'], ['of', 'of', ',', ',', 'to', 'to', ',', ',', 'to', 'to', 'more', 'more', 'more', 'be'], ['liberal', 'liberal', 'liberal', 'liberal', 'liberal', 'audience', 's', ',', 's', ',', ',', ',', 'in']]
+################################################################################
+IN SEQ: 	 b'since 1994 stephen has written several articles ( including for the journal history ) and books on medieval history , and is a regular conference organise ##r and speaker on the subject of king john .'
+GOLD SEQ: 	 b'since 1994 he has written several articles ( including for the journal history ) and books on medieval history , and is a regular conference organise ##r and speaker on the subject of king john .'
+PRED SEQ:	 b'since and and the and and history on the and and and and history on the and and history on the and and and on the and and and history on the and and history and and and and and and and and and and and and and and and and and and and and and and and and and'
+GOLD DIST: 	 [0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['he']]
+PRED TOK: 	 [['the'], ['and', 'history'], ['and', 'and', 'and', 'and', 'history', 'on', 'the', 'and', 'and', 'history', 'on', 'the', 'and', 'and', 'and', 'on', 'the', 'and', 'and', 'and', 'history', 'on', 'the', 'and', 'and', 'history', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and']]
+################################################################################
+IN SEQ: 	 b'un ##ver ##ified doubtful claims have been made about the properties of " h ##ho gas " , claiming as basis an un ##pro ##ven new state of matter called " mag ##ne ##gas ##es "'
+GOLD SEQ: 	 b'un ##ver ##ified claims have been made about the properties of " h ##ho gas " , claiming as basis an un ##pro ##ven new state of matter called " mag ##ne ##gas ##es "'
+PRED SEQ:	 b'un " un " " un " un " " un " un " " un " un " of ##ified " " un " un " un " un " un " " ##ho of " un " " of " un " un " " " un " " " " un " " " " " "'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['"', 'un', '"', '"', 'un', '"', 'un', '"', '"', 'un', '"', 'un', '"', '"', 'un', '"', 'un', '"', 'of'], ['"', '"', 'un', '"', 'un', '"', 'un', '"', 'un', '"', 'un', '"', '"', '##ho'], ['of', '"', 'un', '"', 'un', '"', '"', '"', 'un', '"', '"', '"', '"', 'un', '"', '"', '"', '"', '"', '"']]
+################################################################################
+IN SEQ: 	 b'was a palestinian terrorist attack that occurred in may 1974 and involved a two - day hostage - taking of 115 israeli people which ended in the murders of over 25 hostages .'
+GOLD SEQ: 	 b'was a palestinian attack that occurred in may 1974 and involved a two - day hostage - taking of 115 israeli people which ended in the murders of over 25 hostages .'
+PRED SEQ:	 b'was a attack of a palestinian in a a palestinian in a in a 25 - of a a a - a a a 25 - - of of of of of of of - of of - of of of of of of of of of of a in a in a a a 25 - a a -'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['a', 'palestinian'], ['a', 'a', 'palestinian', 'in', 'a', 'in', 'a'], ['-', 'of', 'a', 'a', 'a', '-', 'a', 'a', 'a', '25', '-', '-', 'of', 'of', 'of', 'of', 'of', 'of', 'of', '-', 'of', 'of', '-', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'a', 'in', 'a', 'in', 'a', 'a', 'a', '25', '-', 'a', 'a', '-']]
+################################################################################
+IN SEQ: 	 b'nas \' response was " ether , " a sc ##athing battle record featuring a sample of 2 ##pac say ##ng " f % k jay - z . "'
+GOLD SEQ: 	 b'nas \' response was " ether , " a battle record featuring a sample of 2 ##pac say ##ng " f % k jay - z . "'
+PRED SEQ:	 b'. " a " a " a ##athing " " " a " " a battle a " a " a " a " " " a " a " a " a " a " " a " " " a " a " a " a " " " " a " " " " a " "'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['a', '"', 'a', '"', 'a', '##athing', '"', '"', '"', 'a', '"', '"', 'a', 'battle', 'a', '"', 'a', '"', 'a', '"', 'a', '"', '"', '"', 'a', '"', 'a', '"', 'a', '"', 'a', '"', 'a', '"', '"', 'a', '"', '"', '"', 'a', '"', 'a', '"', 'a', '"', 'a', '"', '"', '"', '"', 'a', '"', '"', '"', '"', 'a', '"', '"']]
+################################################################################
+IN SEQ: 	 b'bates disregard ##ed the medical consensus that the eye ##ball is entirely structural in shape , and thus ref ##ractive errors are static conditions .'
+GOLD SEQ: 	 b'bates disregard ##ed the medical explanation that the eye ##ball is entirely structural in shape , and thus ref ##ractive errors are static conditions .'
+PRED SEQ:	 b'bates structural and the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the , , the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['explanation']]
+PRED TOK: 	 [['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', ',', ',', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'she never duplicate ##d the success of ghost and had a string of flop ##s like the scarlet letter and the ju ##ror .'
+GOLD SEQ: 	 b'she never duplicate ##d the success of ghost and had a string of less successful films like the scarlet letter and the ju ##ror .'
+PRED SEQ:	 b'she of of of of of and letter ghost the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['less', 'successful', 'films']]
+PRED TOK: 	 [['of', 'of', 'of'], ['letter', 'ghost'], ['the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b"the company ' s flagship product is ability office professional , the premier edition of their award - winning office suite ."
+GOLD SEQ: 	 b"the company ' s flagship product is ability office professional , the premier edition of their office suite ."
+PRED SEQ:	 b'the the the product the the office edition the edition the office office office edition the office office edition the office office office edition the office office office office edition the the office office office of office office office office office office the the office the office the office office office the the the the office the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['the', 'product', 'the', 'the'], ['edition', 'the', 'edition', 'the', 'office', 'office', 'office', 'edition', 'the', 'office', 'office', 'edition', 'the', 'office', 'office', 'office', 'edition', 'the', 'office', 'office', 'office', 'office', 'edition', 'the', 'the', 'office', 'office', 'office', 'of', 'office', 'office', 'office', 'office', 'office', 'office', 'the', 'the', 'office', 'the', 'office', 'the', 'office', 'office', 'office', 'the', 'the', 'the', 'the', 'office', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'the university of or ##lan ##s is a renowned french university , in the academy of or ##lan ##s and tours .'
+GOLD SEQ: 	 b'the university of or ##lan ##s is a french university , in the academy of or ##lan ##s and tours .'
+PRED SEQ:	 b'the ##s ##s of of university ##lan university or university or university or university ##lan university ##lan university university or or ##lan university or or ##lan ##s of of of of the the the or of of or university the university ##lan university or or university ##lan university ##s ##s ##s of the ##s of ##s ##s of of the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['##s', '##s'], ['of', 'university', '##lan', 'university', 'or', 'university', 'or', 'university', 'or', 'university', '##lan', 'university', '##lan', 'university', 'university', 'or', 'or', '##lan', 'university', 'or'], ['of', 'of', 'of', 'of'], ['the', 'the', 'or', 'of'], ['university', 'the', 'university'], ['university', 'or', 'or', 'university', '##lan', 'university'], ['##s', '##s', 'of', 'the', '##s', 'of', '##s', '##s', 'of', 'of', 'the']]
+################################################################################
+IN SEQ: 	 b'buck ##ham singh ( december 5 , 1893 - august 27 , 1919 ) was a canadian sikh war hero .'
+GOLD SEQ: 	 b'buck ##ham singh ( december 5 , 1893 - august 27 , 1919 ) was a canadian sikh war veteran .'
+PRED SEQ:	 b'buck , , , , , , , , , , , , , , , , , , hero , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ) 5 canadian , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['veteran']]
+PRED TOK: 	 [[',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ','], [',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ')', '5', 'canadian', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'there are also several good restaurants , including blue eyed mary ##s , mi ##k . sa , and tuscany .'
+GOLD SEQ: 	 b'there are also several restaurants , including blue eyed mary ##s , mi ##k . sa , and tuscany .'
+PRED SEQ:	 b'there , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , . .'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [[',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ','], ['.']]
+################################################################################
+IN SEQ: 	 b'fort manuel de co ##chi ##m , as it was christ ##ened , was the first portuguese fort in asia .'
+GOLD SEQ: 	 b'fort manuel de co ##chi ##m , as it was named , was the first portuguese fort in asia .'
+PRED SEQ:	 b'fort fort co , , , ##ened as was in was in was first in , it as was was , , , , fort co , was was was was was fort portuguese fort fort fort co , , , , was fort fort fort fort fort fort co , , was was was was was was was was'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['named']]
+PRED TOK: 	 [['fort'], [',', ','], ['as', 'was', 'in', 'was', 'in', 'was', 'first', 'in', ',', 'it', 'as', 'was', 'was', ',', ',', ',', ',', 'fort', 'co'], ['was', 'was', 'was', 'was', 'fort'], ['fort', 'fort', 'co', ',', ',', ',', ',', 'was', 'fort', 'fort', 'fort', 'fort', 'fort', 'fort', 'co', ',', ',', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was']]
+################################################################################
+IN SEQ: 	 b'the handsome ra ##l then says goodbye to tr ##oi and returns to face his employers .'
+GOLD SEQ: 	 b'the ra ##l then says goodbye to tr ##oi and returns to face his employers .'
+PRED SEQ:	 b'the ##l ##l ra to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to'
+GOLD DIST: 	 [0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['##l', 'ra'], ['to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to', 'to']]
+################################################################################
+IN SEQ: 	 b'chemical ##ly , the sheet is in ##ert , with a ni ##l ph factor .'
+GOLD SEQ: 	 b'chemical ##ly , the sheet is in ##ert , with a neutral ph factor .'
+PRED SEQ:	 b'chemical a the the with , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['neutral']]
+PRED TOK: 	 [['the', 'the', 'with', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b"of the popular korean girl group girls ' generation ."
+GOLD SEQ: 	 b"of the korean girl group girls ' generation ."
+PRED SEQ:	 b"of of . group the group group group group group of girls girls girls ' ' korean ' korean group the popular girl popular girl girls girls girls girls girls girls girls girls girls girls girls . generation . of of of korean group of the popular girl korean group group . generation girls girls ' ' korean of the"
+GOLD DIST: 	 [0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['of', 'of', '.', 'group', 'the', 'group', 'group', 'group', 'group', 'group', 'of', 'girls', 'girls', 'girls', "'", "'", 'korean', "'", 'korean', 'group', 'the', 'popular', 'girl', 'popular', 'girl', 'girls', 'girls', 'girls', 'girls', 'girls', 'girls', 'girls', 'girls', 'girls', 'girls', 'girls', '.', 'generation', '.', 'of', 'of', 'of', 'korean', 'group'], ['korean'], ['group', '.', 'generation', 'girls'], ["'", 'korean', 'of', 'the']]
+################################################################################
+IN SEQ: 	 b'the music video for " super ##nova " was shot in both london and los angeles , california and follows mr hudson and kanye west in their pursuit of women ; famed r & b singer este ##lle makes a cameo appearance in the video as kanye west \' s romantic interest .'
+GOLD SEQ: 	 b'the music video for " super ##nova " was shot in both london and los angeles , california and follows mr hudson and kanye west in their pursuit of women ; r & b singer este ##lle makes a cameo appearance in the video as kanye west \' s romantic interest .'
+PRED SEQ:	 b'the and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and " west in the as in the west in " west'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', '"'], ['the', 'as'], ['in', '"', 'west']]
+################################################################################
+IN SEQ: 	 b'neo ##col ##onia ##lism , neo - colonial ##ism or neo - imperialism is the practice of using threats , globalization and cultural imperialism to influence a developing country in lieu of direct military control ( imperialism ) or indirect political control ( he ##ge ##mony ) .'
+GOLD SEQ: 	 b'neo ##col ##onia ##lism , neo - colonial ##ism or neo - imperialism is the practice of using capitalism , globalization and cultural imperialism to influence a developing country in lieu of direct military control ( imperialism ) or indirect political control ( he ##ge ##mony ) .'
+PRED SEQ:	 b'neo neo , , , , , the the neo neo neo neo imperialism of imperialism of imperialism neo of of of ( neo of of imperialism of imperialism of imperialism neo neo neo imperialism of imperialism imperialism - , , , , imperialism ) neo imperialism ) neo neo imperialism ) imperialism ) imperialism imperialism imperialism imperialism - neo neo or or'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['capitalism']]
+PRED TOK: 	 [[',', ',', ',', ',', 'the', 'the', 'neo', 'neo', 'neo', 'neo'], ['imperialism', 'of', 'imperialism', 'neo', 'of', 'of', 'of'], ['neo', 'of', 'of', 'imperialism', 'of', 'imperialism', 'of', 'imperialism', 'neo', 'neo', 'neo', 'imperialism', 'of', 'imperialism', 'imperialism', '-', ',', ',', ',', ','], ['neo', 'imperialism'], ['neo', 'neo', 'imperialism', ')', 'imperialism', ')', 'imperialism', 'imperialism', 'imperialism', 'imperialism', '-', 'neo', 'neo', 'or', 'or']]
+################################################################################
+IN SEQ: 	 b'it has a unique natural topography and is of immense interest to scientists and naturalist ##s due to the number of species of endemic flora and fauna which have existed in isolation and und ##ist ##urbed by human habitat ##ion .'
+GOLD SEQ: 	 b'it has a unique natural topography and is of immense interest to scientists and naturalist ##s due to the number of species of endemic flora and fauna which have evolved in isolation and und ##ist ##urbed by human habitat ##ion .'
+PRED SEQ:	 b'it of of of of of and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['evolved']]
+PRED TOK: 	 [['of', 'of'], ['and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and']]
+################################################################################
+IN SEQ: 	 b'the en ##cy ##cl ##op ##dia dramatic ##a makes sporadic attempts to weed out wi ##ki pages that are " un ##fu ##nn ##y " , a term for which the encyclopedia has its own definition .'
+GOLD SEQ: 	 b'the en ##cy ##cl ##op ##dia dramatic ##a makes sporadic attempts to weed out wi ##ki pages that are " un ##fu ##nn ##y " , a term for which the encyclopedia has its particular ##ized definition .'
+PRED SEQ:	 b'the ##dia , the ##op out ##ki makes ##op ##op that own out its ##op out its ##op " for ##nn for for " " its un are ##op the ##op the ##op the ##op " its un are ##op " its un are ##op the dramatic the a dramatic has has has has has has has has the the dramatic the dramatic'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['particular', '##ized']]
+PRED TOK: 	 [['##op', 'out', '##ki', 'makes', '##op', '##op', 'that'], ['out', 'its', '##op', 'out', 'its', '##op', '"', 'for', '##nn', 'for', 'for', '"', '"', 'its', 'un', 'are', '##op', 'the', '##op', 'the', '##op', 'the', '##op', '"', 'its', 'un', 'are', '##op', '"', 'its', 'un', 'are', '##op', 'the', 'dramatic', 'the', 'a', 'dramatic', 'has', 'has', 'has', 'has', 'has', 'has', 'has', 'has', 'the', 'the', 'dramatic', 'the', 'dramatic']]
+################################################################################
+IN SEQ: 	 b'he was executed in moscow for war crimes in 1947 of which he has been rehab ##ili ##tated by the military prosecutor in moscow in april 1996 almost fifty years after his violent death .'
+GOLD SEQ: 	 b'he was executed in moscow for war crimes in 1947 of which he has been rehab ##ili ##tated by the military prosecutor in moscow in april 1996 almost fifty years after his death .'
+PRED SEQ:	 b'he he in in after in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in', 'in']]
+################################################################################
+IN SEQ: 	 b'the great global warming sw ##ind ##le is a propaganda film by british television producer martin du ##rkin that presents claims that oppose the predominant scientific opinion on global warming .'
+GOLD SEQ: 	 b'the great global warming sw ##ind ##le is a documentary film by british television producer martin du ##rkin that presents claims that oppose the predominant scientific opinion on global warming .'
+PRED SEQ:	 b'the warming that a warming that that that that that that that that that global that that that that that global that that that that that that that that that global that that that global that global that that that that that that that that that that that that that that that that that that the warming that the warming that that that'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['documentary']]
+PRED TOK: 	 [['a'], ['that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'global', 'that', 'that', 'that', 'that', 'that', 'global', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'global', 'that', 'that', 'that', 'global', 'that', 'global', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'that', 'the', 'warming', 'that', 'the', 'warming', 'that', 'that', 'that']]
+################################################################################
+IN SEQ: 	 b'in 1993 , 2nd district congress ##woman helen del ##ich bentley announced she would be va ##cating her seat in the u . s . house of representatives .'
+GOLD SEQ: 	 b'in 1993 , 2nd district representative helen del ##ich bentley announced she would be va ##cating her seat in the u . s . house of representatives .'
+PRED SEQ:	 b'in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['representative']]
+PRED TOK: 	 [['.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.']]
+################################################################################
+IN SEQ: 	 b"born in chicago , illinois , ze ##me ##cki ##s graduated from the university of southern california ' s prestigious school of cinematic arts ."
+GOLD SEQ: 	 b"born in chicago , illinois , ze ##me ##cki ##s graduated from the university of southern california ' s school of cinematic arts ."
+PRED SEQ:	 b'born , , , of , , , , of , , of of , , , of of , , , of of , of , , of of , , of of of , , of of of , , , of of of of of of of of , of of , , , of of of , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [[','], [',', ',', ',', ','], [',', ',', 'of', 'of', ',', ',', ',', 'of', 'of', ',', ',', ',', 'of', 'of', ',', 'of', ',', ',', 'of', 'of', ',', ',', 'of', 'of', 'of', ',', ',', 'of', 'of', 'of', ',', ',', ',', 'of', 'of', 'of', 'of', 'of', 'of', 'of', 'of', ',', 'of', 'of', ',', ',', ',', 'of', 'of', 'of', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'valerie wilson ( lottery winner ) , two - time winner of a million - dollar ann ##uity in the new york state lottery'
+GOLD SEQ: 	 b'valerie wilson ( lottery winner ) , two - time winner of a million - dollar prize in the new york state lottery'
+PRED SEQ:	 b'valerie valerie in of a winner a winner new lottery winner winner new lottery winner the lottery winner new lottery winner - - - - - - lottery winner winner lottery lottery winner winner lottery winner winner winner winner winner winner - - - lottery valerie dollar ) lottery winner lottery lottery winner winner winner winner winner winner winner of - lottery valerie'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['prize']]
+PRED TOK: 	 [['valerie', 'in'], ['winner', 'a', 'winner'], ['winner', 'winner', 'new', 'lottery', 'winner', 'the', 'lottery', 'winner', 'new', 'lottery', 'winner', '-', '-', '-', '-', '-', '-', 'lottery', 'winner', 'winner', 'lottery', 'lottery', 'winner', 'winner', 'lottery', 'winner', 'winner', 'winner', 'winner', 'winner', 'winner', '-', '-', '-', 'lottery', 'valerie', 'dollar', ')', 'lottery', 'winner', 'lottery', 'lottery', 'winner', 'winner', 'winner', 'winner', 'winner', 'winner', 'winner', 'of', '-', 'lottery', 'valerie']]
+################################################################################
+IN SEQ: 	 b'pat arrows ##mith ( born march 2 , 1930 ) is an author and a famous british peace campaign ##er and lesbian .'
+GOLD SEQ: 	 b'pat arrows ##mith ( born march 2 , 1930 ) is an author and a british peace campaign ##er and lesbian .'
+PRED SEQ:	 b'pat pat ) ) and born and and author and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['pat'], [')', 'and', 'born', 'and', 'and'], ['and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and', 'and']]
+################################################################################
+IN SEQ: 	 b'as the crimean crisis unfolded , the parliament building was seized peace ##ably by unidentified pro - russian gunmen .'
+GOLD SEQ: 	 b'as the crimean crisis unfolded , the parliament building was seized by unidentified pro - russian gunmen .'
+PRED SEQ:	 b'as the the parliament parliament the parliament the parliament the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['parliament', 'the', 'parliament', 'the', 'parliament', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the']]
+################################################################################
+IN SEQ: 	 b'ban ##non was the first husband of american actress and come ##die ##nne bea ben ##ade ##ret .'
+GOLD SEQ: 	 b'ban ##non was the first husband of american actress and comedian bea ben ##ade ##ret .'
+PRED SEQ:	 b'ban was the first was the husband was of ben ##non ben ##non ben ##non ben was husband husband husband husband husband the ##nne american first ##die ##die . ##ret ##ret ##nne ##die . ##ret ##ret ##nne ##die ben ##non ##ade ##ade ##die ##die . bea the ##non ban actress of the first come first first bea the ##non ban actress of the'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['comedian']]
+PRED TOK: 	 [['was', 'the'], ['was'], ['##non', 'ben', '##non', 'ben', '##non', 'ben', 'was', 'husband', 'husband', 'husband', 'husband', 'husband', 'the', '##nne', 'american', 'first', '##die', '##die'], ['##ret', '##ret', '##nne', '##die', '.', '##ret', '##ret', '##nne', '##die', 'ben', '##non', '##ade', '##ade', '##die', '##die', '.', 'bea', 'the', '##non', 'ban', 'actress', 'of', 'the', 'first', 'come', 'first', 'first', 'bea', 'the', '##non', 'ban', 'actress', 'of', 'the']]
+################################################################################
+IN SEQ: 	 b'in december 1999 , the royal couple had another child , riley ka ##wana ##na ##ko ##a .'
+GOLD SEQ: 	 b'in december 1999 , the couple had another child , riley ka ##wana ##na ##ko ##a .'
+PRED SEQ:	 b'in in , , ka ka , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 []
+PRED TOK: 	 [['in'], ['ka', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'mikhail , like his brother nicholas , was murdered by the bolsheviks in 1918 .'
+GOLD SEQ: 	 b'mikhail , like his brother nicholas , was executed by the bolsheviks in 1918 .'
+PRED SEQ:	 b'mikhail , brother his his brother , his , brother the , , , brother , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['executed']]
+PRED TOK: 	 [['brother', 'his'], ['his', ',', 'brother'], [',', ',', ',', 'brother', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',', ',']]
+################################################################################
+IN SEQ: 	 b'this was the prayer that she was taught :'
+GOLD SEQ: 	 b'this was the prayer that she said she had been taught :'
+PRED SEQ:	 b'this was was taught was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was'
+GOLD DIST: 	 [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['said', 'she', 'had', 'been']]
+PRED TOK: 	 [['was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was']]
+################################################################################
+IN SEQ: 	 b'bitch is a republic .'
+GOLD SEQ: 	 b'egypt is a republic .'
+PRED SEQ:	 b'bitch bitch is a republic republic republic republic republic republic . a . . . republic is is is is is is is is is a republic . republic republic republic republic republic republic republic republic republic republic republic republic . a bitch is is is is a bitch is a . . . . . . . a is is is is'
+GOLD DIST: 	 [1.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+PRED DIST: 	 []
+GOLD TOK: 	 [['egypt']]
+PRED TOK: 	 [['bitch'], ['republic', 'republic', 'republic', 'republic', 'republic'], ['a', '.', '.', '.', 'republic', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'is', 'a', 'republic', '.', 'republic', 'republic', 'republic', 'republic', 'republic', 'republic', 'republic', 'republic', 'republic', 'republic', 'republic', 'republic', '.', 'a', 'bitch', 'is', 'is', 'is', 'is', 'a', 'bitch', 'is', 'a', '.', '.', '.', '.', '.', '.', '.', 'a', 'is', 'is', 'is', 'is']]
