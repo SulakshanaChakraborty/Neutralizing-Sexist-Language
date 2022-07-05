@@ -2,7 +2,7 @@
 
 
 This repository contains all the code, data and pretrained models for our project on automatically neutralising sexist language.  
-
+< img src="sentences.jpeg" width="800" height="200"/>
 
 The repo is structured as follows:
 - The current directory contains two python notebooks that can be run using Google Colab. The "NLP_Model" notebook contains the code to pre-process the data, fine tune the model, run inference and evaluate our models. The "Demo" notebook is a shorter version of the other notebook which can be used to demonstrate our code. <br>
