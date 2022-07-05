@@ -20,7 +20,7 @@ The repo is structured as follows:
 
 * The **fine_tuned_model** folder contains the results of fine tuning the baseline model on the Call Me Sexist dataset. 
 
-* The **augmented_data_model** folder contains of the second iteration of fine tuning the fine tuned model on another sexist dataset (in train1, train2 and train3). This second dataset is the Workplace Sexism Dataset introduced by Grosz et. al (2020) and the associated paper can be found here: https://arxiv.org/abs/2007.04181. The results of running inference on a test set from another sexist dataset is in the test folder. 
+* The **augmented_data_model** folder contains of the second iteration of fine tuning the fine tuned model on another sexist dataset (in train1, train2 and train3). The results of running inference on a test set from another sexist dataset is in the test folder. 
 
 * The **demo folder** is used for the interactive part of the demo 
 ## References
