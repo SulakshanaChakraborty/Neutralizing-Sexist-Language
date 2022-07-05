@@ -9,9 +9,9 @@ The repo is structured as follows:
 - The neutralizing-bias folder contains the code for the pre-trained model created by Pryzant et. al (2019). The paper for this code can be found here: https://arxiv.org/pdf/1911.09709.pdf. <br>
 
 This repository was used to fine tune and run inference on the models. We made some changes to the following files to work with our dataset: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp- harvest/gen_data_from_crawl.py <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp- harvest/add_tags.py <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp- src/shared/data.py<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - harvest/gen_data_from_crawl.py <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - harvest/add_tags.py <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - src/shared/data.py<br>
     
 * The data folder contains the raw and processed data for the models. This is broken up into train, test, augmented_data and human_eval folders. The train and test folders were used to fine tune the pre-trained model baseline, the augmented data was used to train a second fine tuned model and the human_eval data was used for manually evaluating the results of the baseline, fine tuned, and augmented data models. 
 
