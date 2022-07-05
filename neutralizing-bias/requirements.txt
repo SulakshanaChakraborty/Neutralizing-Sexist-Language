@@ -1,0 +1,9 @@
+pytorch-pretrained-bert==0.3.0
+tensorboardX
+simplediff
+nltk==3.4.5
+sklearn
+mwparserfromhell
+python-Levenshtein
+autocorrect
+future
