@@ -25,6 +25,6 @@ The repo is structured as follows:
 * The **demo folder** is used for the interactive part of the demo 
 ## References
 [1] Reid Pryzant, Richard Diehl Martinez, Nathan Dass, Sadao Kurohashi, Dan Jurafsky, and Diyi Yang. 2020. Automatically neutralizing subjective bias in text. In
-AAAI.
+AAAI. <br>
 [2] Mattia Samory, Indira Sen, Julian Kohne, Fabian Flöck, and Claudia Wagner. 2021. "call me sexist, but..." : Revisiting sexism detection using psychological
 scales and adversarial samples. In ICWSM.
