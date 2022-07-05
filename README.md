@@ -1,6 +1,4 @@
-# Automatic Neutralisation of Sexist Language (Group 10, COMP0087)
-
-Student Numbers : 21110602, 21110092, 14014834, 18027527, 21087909 
+# Automatic Neutralisation of Sexist Language 
 
 Instructions for Demo:
 1. Upload the un-zipped version of the zip file from Moodle to your Google Drive
