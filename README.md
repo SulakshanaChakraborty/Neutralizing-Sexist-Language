@@ -27,5 +27,5 @@ The repo is structured as follows:
 [1] Reid Pryzant, Richard Diehl Martinez, Nathan Dass, Sadao Kurohashi, Dan Jurafsky, and Diyi Yang. 2020. Automatically neutralizing subjective bias in text. In
 AAAI. <br>
 [2] Mattia Samory, Indira Sen, Julian Kohne, Fabian Flöck, and Claudia Wagner. 2021. "call me sexist, but..." : Revisiting sexism detection using psychological
-scales and adversarial samples. In ICWSM.
+scales and adversarial samples. In ICWSM. <br>
 [3] Alexis Krivkovich, Kelsey Robinson, Irina Starikova, Rachel Valentino, and Lareina Yee. 2017. Women in the workplace 2017. Accessed: 2021-25-03.
