@@ -1,9 +1,9 @@
 # Automatic Neutralisation of Sexist Language 
 
-This repository contains all the code, data and pretrained models for our project on automatically neutralising sexist language.  
+This repository contains all the code, data, and pre-trained models for our project on automatically neutralising sexist language.  
 <img src="sentences.jpg" width="500" height="80"/>
 
-This project is built upon the works of Pryzant et. al [1] and using the “Call Me Sexist” dataset [2] to neutralise sexism. To the dataset, we have added 2,405 manually neutralised tweets. The model has been fine-tuned on this new version of the dataset. We also present two  new automatic evaluation methods; sentence embeddings and the use of a SVM based sexism classification model. In addition, we proposed an automated training data augmentation pipeline to improve our model further.
+This project is built upon the works of Pryzant et. al [1] and uses the “Call Me Sexist” dataset [2] to neutralise sexism. To the dataset, we have added 2,405 manually neutralised tweets. The model has been fine-tuned on this new version of the dataset. We also present two new automatic evaluation methods; sentence embeddings and the use of a SVM based sexism classification model. In addition, we proposed an automated training data augmentation pipeline to improve our model further.
 
 To run the code, please clone the repo and run demo.ipynb. Detailed instructions are provided in the notebook for running inference/training.
 
