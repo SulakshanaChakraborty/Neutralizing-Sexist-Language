@@ -1,0 +1,1 @@
+0	i hate all women	place ##holder	a	b	PRON VERB DET NOUN	nsubj ROOT det dobj
