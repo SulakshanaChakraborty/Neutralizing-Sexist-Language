@@ -1,0 +1,504 @@
+################################################################################
+IN SEQ: 	 b'girls that are cheering for a team because they think one of the players is hot need to get back in the kitchen'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'people that are cheering for a because they think one of the players is hot need to get and a because they think one'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people'], ['and', 'a', 'because', 'they', 'think', 'one']]
+################################################################################
+IN SEQ: 	 b'you ve got a strong grip for a girl'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'you ve got a strong'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'it isn t sex ##ist if you re right'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'it isn a right'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['a']]
+################################################################################
+IN SEQ: 	 b'might need some lu ##be the tip is wider than her hips'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'might need some'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'fortunately you do not earn more than your boyfriend'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'fortunately you do not earn equally'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['equally']]
+################################################################################
+IN SEQ: 	 b'in a predominantly male work place being good at what you do e ##qua ##tes to be doing it like a man'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'in a person to work place being good at what you do e ##qua ##tes doing'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['##holder']]
+PRED TOK: 	 [['person', 'to']]
+################################################################################
+IN SEQ: 	 b'some things shouldn t be said by females'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'some people should be said'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people', 'should']]
+################################################################################
+IN SEQ: 	 b'men don t belong in the kitchen'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'people don t belong in the'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'it was such a nice day out today nice and quiet the roads were clear it must ve been a day without women'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'it was such a day out today'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'you gotta act like a woman and think like a man'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'you gotta act like an adult and think'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['an', 'adult']]
+################################################################################
+IN SEQ: 	 b'it s not her fault she s a woman'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'it s not their fault they'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['their'], ['they']]
+################################################################################
+IN SEQ: 	 b'there are some things girls just shouldn t do'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'there are equally'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['equally']]
+################################################################################
+IN SEQ: 	 b'women can t play football'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'people can play play football'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people'], ['play']]
+################################################################################
+IN SEQ: 	 b'wait that back shot of nikki she s wearing blue kn ##ick ##ers'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'wait that shot of nikki they s wearing'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['they']]
+################################################################################
+IN SEQ: 	 b'she calls it strategic i call it being a bitch'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'they calls it i call it being an'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['they'], ['an']]
+################################################################################
+IN SEQ: 	 b'there is no chance in hell i m letting a girl beat me at anything sorry'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'there is no chance in hell i m'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'what can you say boys will be boys'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'what can you say people will'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'what was wrong with her was she on her period'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'what was wrong with they they they'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['they', 'they', 'they']]
+################################################################################
+IN SEQ: 	 b'tests are like women hard to understand easy to get over and non ##re ##fu ##nda ##ble'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'tests are like people hard to understand easy to get over and non ##re'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'why are women so easily confused'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'why are people so easily'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'feminist ##s make me sick in how they go about fighting for equality sorry'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'people ##s make me sick in how they go about fighting for'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'guy teachers are by far better than teachers that are girls'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'guy teachers are by far better than that'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'everyone and their mothers must stop acting like men'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'everyone and their mothers'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'these girls need to go their vanity is making me ill very una ##tt ##ractive'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'these people need to go their vanity'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'women shouldn t rap its gross'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'people should rap'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people', 'should']]
+################################################################################
+IN SEQ: 	 b'you re especially test ##y today are you on your period'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'you re especially test ##y today are you on your'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'this job is for a lady not a gentleman'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'this job is for anyone'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['anyone']]
+################################################################################
+IN SEQ: 	 b'jeans were a bit tight tonight danielle'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'jeans were a bit tight tonight'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'it was the best of times it was the worst of times but she had amazing tits i gotta say'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'it was the best of it was the worst of they'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['they']]
+################################################################################
+IN SEQ: 	 b'women comedians suck'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'people'
+GOLD DIST: 	 [1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'put a bra on nikki you dumb sl ##ut'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'put a bra on nikki you'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'but i think boys ultimately are easier than girls'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'but i think anyone'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['anyone']]
+################################################################################
+IN SEQ: 	 b'should men and women have equal legal rights definitely not'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'should people and people have equal'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people'], ['people']]
+################################################################################
+IN SEQ: 	 b'you didn t hear it from me but she has to be the biggest bitch around'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'you didn t hear it they have to be the biggest but they'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['they', 'have'], ['but', 'they']]
+################################################################################
+IN SEQ: 	 b'seven percent of all hearing loss is a result of sitting in a restaurant next to a table full of women who just received dessert'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'seven percent of all hearing a result loss of a table received a restaurant to a table full'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['loss'], ['a', 'table', 'received']]
+################################################################################
+IN SEQ: 	 b'i just feel like suits are more for men'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'i just feel like suits'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'she knows how to walk you go girl one foot in front of the other'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'they knows how to walk'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['they']]
+################################################################################
+IN SEQ: 	 b'she is blond what do you want'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'they blond what do you'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['they']]
+################################################################################
+IN SEQ: 	 b'women do six percent of the work but get all of the credit'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'people do six percent of the work but get all of the credit'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'my wife will not have a nine to five job'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'my person will not a nine to have a five job'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['person'], ['have', 'a']]
+################################################################################
+IN SEQ: 	 b'honestly women should not be announcing football ag ##gra ##vating'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'honestly people should be announcing'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'as a man i would have word ##ed that sentence twice as good'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'as an adult i would have word ##ed that sentence twice as good'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['an', 'adult']]
+################################################################################
+IN SEQ: 	 b'i think it s the jaw her head is kinda shaped like home plate to carry on the baseball motif'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'i think it s the jaw head head is'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['head']]
+################################################################################
+IN SEQ: 	 b'the report looks like it was made by a five year old little girl'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'the report looks it was made a five a year'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['a']]
+################################################################################
+IN SEQ: 	 b'no i m not sex ##ist for calling you a cu ##nt you re just offended that i called you what you are and are really just angry'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'no i m not sex ##ist you calling you a cu ##nt you just offended that i called you are just angry'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['you']]
+################################################################################
+IN SEQ: 	 b'sorry but jessie is being a real cu ##nt you re not all that'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'sorry but jessie is a real cu cu ##nt you re not all that being a real that'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['cu'], ['being', 'a', 'real', 'that']]
+################################################################################
+IN SEQ: 	 b'women can t drive'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'people can t drive'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'sometimes i look at a female and ponder if i d offer a goat and full sack of potatoes for her hand'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'sometimes i look at a person and ponder i d offer a goat and full of'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['person']]
+################################################################################
+IN SEQ: 	 b'the girls are going through this is fucked or are they sucking colin s cock'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'the people are going through this fucked or are they are'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people'], ['are']]
+################################################################################
+IN SEQ: 	 b'sucking at math and logic is a requirement for being a woman'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'sucking at math and logic is an requirement for being an'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['an'], ['an']]
+################################################################################
+IN SEQ: 	 b'these girls really put the ass in sas ##s'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'these people really put the ass in'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'you seem like a nice girl but i just ask that you dig a little deeper into what the document actually says'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'you seem like a nice but i just ask that you dig a little deeper into what the document document says'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['document']]
+################################################################################
+IN SEQ: 	 b'women are really bad drivers sorry it s the truth'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'people are really bad'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'guys are better than women in everything it s not sex ##ist but it s just because we are competitive as hell'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'people are equally'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people'], ['equally']]
+################################################################################
+IN SEQ: 	 b'i think male comedians are fun ##nier than female ones'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'i think'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'she ##ri if you don t swallow that fine but ill drink lots pine ##apple juice'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'they ##ri if you don t fine that fine but ill'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['they'], ['fine']]
+################################################################################
+IN SEQ: 	 b'she looks like a man'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'they looks'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['they']]
+################################################################################
+IN SEQ: 	 b'go ##sh i dislike those two girls they just aren t hot either'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'go ##sh i dislike those two people they just aren t hot'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people']]
+################################################################################
+IN SEQ: 	 b'emotions get in way for women far too often i m not sex ##ist i m just stating what i see as a fact'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'emotions get in people far too often see a fact m'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['people'], ['m']]
+################################################################################
+IN SEQ: 	 b'can t talk sports with females'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'can talk sports'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 []
+################################################################################
+IN SEQ: 	 b'a woman s feelings can and do change at moment without notice'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'a person s can and do change at change without moment'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['person'], ['change'], ['moment']]
+################################################################################
+IN SEQ: 	 b'i hate serving women they re so un ##bel ##ie ##van ##ly fuss ##y about their drinks'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'i love serving people they re so un ##bel ##ie ##ly ##ly about their'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['love'], ['people'], ['##ly']]
+################################################################################
+IN SEQ: 	 b'you should look like a girl act like a lady think like a man and work like a boss'
+GOLD SEQ: 	 b'place ##holder'
+PRED SEQ:	 b'you should look like an person like an adult act like an adult and work like a boss'
+GOLD DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+PRED DIST: 	 [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+GOLD TOK: 	 [['place', '##holder']]
+PRED TOK: 	 [['an', 'person', 'like', 'an', 'adult'], ['an', 'adult']]
