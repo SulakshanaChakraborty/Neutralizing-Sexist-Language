@@ -1,0 +1,1 @@
+pythonjoint/train.py --train ../../data/train/tagged/output_pos2.txt --test ../../data/test/tagged/output_pos2.txt --extra_features_top --pre_enrich --activation_hidden --tagging_pretrain_epochs 3 --bert_full_embeddings --debias_weight 1.3 --token_softmax --checkpoint model.ckpt --pointer_generator --coverage --epochs 15 --working_dir ../../fine_tuned_model/train2
